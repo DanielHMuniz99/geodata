@@ -9,12 +9,12 @@ class ApiCensusService implements ApiCensusInterface
 {
     private $baseUrl = "https://servicodados.ibge.gov.br/api/v2/censos/nomes";
 
-    public function getNames(string $name = "")
+    public function getNames(string $name = ""): array
     {
         return Http::get("{$this->baseUrl}/{$name}")->json();
     }
 
-    public function getNamesByRanking()
+    public function getNamesByRanking(): array
     {
         return Http::get("{$this->baseUrl}/ranking")->json();
     }

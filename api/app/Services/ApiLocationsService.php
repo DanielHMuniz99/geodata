@@ -14,7 +14,7 @@ class ApiLocationsService implements ApiLocationsInterface
      * 
      * @return array
      */
-    public function getDistritosById(?int $id): array
+    public function getDistrictsById(?int $id): array
     {
         $url = $this->baseUrl . '/distritos';
         if ($id !== null) {
@@ -26,15 +26,15 @@ class ApiLocationsService implements ApiLocationsInterface
     }
 
     /**
-     * @param string|null $uf
+     * @param string|null $state
      * 
      * @return array
      */
-    public function getDistritosByUf(?string $uf): array
+    public function getDistrictsByFederalUnit(?string $state): array
     {
         $url = $this->baseUrl . '/estados';
-        if ($uf !== null) {
-            $url .= '/' . $uf;
+        if ($state !== null) {
+            $url .= '/' . $state;
         }
         $url .= '/distritos';
 
@@ -43,15 +43,15 @@ class ApiLocationsService implements ApiLocationsInterface
     }
 
     /**
-     * @param int|null $mesorregiao
+     * @param int|null $mesoregion
      * 
      * @return array
      */
-    public function getDistritosByMesorregiao(?int $mesorregiao): array
+    public function getDistrictsByMesoregion(?int $mesoregion): array
     {
         $url = $this->baseUrl . '/mesorregioes';
-        if ($mesorregiao !== null) {
-            $url .= '/' . $mesorregiao;
+        if ($mesoregion !== null) {
+            $url .= '/' . $mesoregion;
         }
         $url .= '/distritos';
 
@@ -60,15 +60,15 @@ class ApiLocationsService implements ApiLocationsInterface
     }
 
     /**
-     * @param int|null $microrregiao
+     * @param int|null $microregion
      * 
      * @return array
      */
-    public function getDistritosByMicrorregiao(?int $microrregiao): array
+    public function getDistrictsByMicroregion(?int $microregion): array
     {
         $url = $this->baseUrl . '/microrregioes';
-        if ($microrregiao !== null) {
-            $url .= '/' . $microrregiao;
+        if ($microregion !== null) {
+            $url .= '/' . $microregion;
         }
         $url .= '/distritos';
 
@@ -77,15 +77,15 @@ class ApiLocationsService implements ApiLocationsInterface
     }
 
     /**
-     * @param int|null $municipio
+     * @param int|null $municipality
      * 
      * @return array
      */
-    public function getDistritosByMunicipio(?int $municipio): array
+    public function getDistrictsByMunicipality(?int $municipality): array
     {
         $url = $this->baseUrl . '/municipios';
-        if ($municipio !== null) {
-            $url .= '/' . $municipio;
+        if ($municipality !== null) {
+            $url .= '/' . $municipality;
         }
         $url .= '/distritos';
 

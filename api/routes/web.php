@@ -9,10 +9,10 @@ Route::prefix('census')->group(function () {
     Route::get('ranking', [ApiCensusController::class, 'getNamesByRanking']);
 });
 
-Route::prefix('localidades')->group(function () {
-    Route::get('/distritos/{id?}', [ApiLocationsController::class, 'getDistritosById']);
-    Route::get('/estados/{uf?}/distritos', [ApiLocationsController::class, 'getDistritosByUf']);
-    Route::get('/mesorregioes/{mesorregiao?}/distritos', [ApiLocationsController::class, 'getDistritosByMesorregiao']);
-    Route::get('/microrregioes/{microrregiao?}/distritos', [ApiLocationsController::class, 'getDistritosByMicrorregiao']);
-    Route::get('/municipios/{municipio?}/distritos', [ApiLocationsController::class, 'getDistritosByMunicipio']);
+Route::prefix('locations')->group(function () {
+    Route::get('/districts/{id?}', [ApiLocationsController::class, 'getDistrictsById']);
+    Route::get('/states/{state?}/districts', [ApiLocationsController::class, 'getDistrictsByFederalUnit']);
+    Route::get('/mesoregions/{mesoregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMesoregion']);
+    Route::get('/microregions/{microregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMicroregion']);
+    Route::get('/municipalities/{municipality?}/districts', [ApiLocationsController::class, 'getDistrictsByMunicipality']);
 });

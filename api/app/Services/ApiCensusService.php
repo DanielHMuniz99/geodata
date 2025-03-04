@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class ApiCensusService implements ApiCensusInterface
 {
-    private $baseUrl = "https://servicodados.ibge.gov.br/api/v2/censos/nomes";
+    protected string $baseUrl = "https://servicodados.ibge.gov.br/api/v2/censos/nomes";
 
     public function getNames(string $name = ""): array
     {

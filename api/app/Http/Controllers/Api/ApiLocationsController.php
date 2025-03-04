@@ -20,53 +20,53 @@ class ApiLocationsController extends Controller
      * 
      * @return JsonResponse
      */
-    public function getDistritosById(?int $id = null): JsonResponse
+    public function getDistrictsById(?int $id = null): JsonResponse
     {
-        $data = $this->apiLocationsService->getDistritosById($id);
+        $data = $this->apiLocationsService->getDistrictsById($id);
         return response()->json($data);
     }
 
     /**
-     * @param string|null $uf
+     * @param string|null $state
      * 
      * @return JsonResponse
      */
-    public function getDistritosByUf(?string $uf = null): JsonResponse
+    public function getDistrictsByFederalUnit(?string $state = null): JsonResponse
     {
-        $data = $this->apiLocationsService->getDistritosByUf($uf);
+        $data = $this->apiLocationsService->getDistrictsByFederalUnit($state);
         return response()->json($data);
     }
 
     /**
-     * @param int|null $mesorregiao
+     * @param int|null $mesoregion
      * 
      * @return JsonResponse
      */
-    public function getDistritosByMesorregiao(?int $mesorregiao = null): JsonResponse
+    public function getDistrictsByMesoregion(?int $mesoregion = null): JsonResponse
     {
-        $data = $this->apiLocationsService->getDistritosByMesorregiao($mesorregiao);
+        $data = $this->apiLocationsService->getDistrictsByMesoregion($mesoregion);
         return response()->json($data);
     }
 
     /**
-     * @param int|null $microrregiao
+     * @param int|null $microregion
      * 
      * @return JsonResponse
      */
-    public function getDistritosByMicrorregiao(?int $microrregiao = null): JsonResponse
+    public function getDistrictsByMicroregion(?int $microregion = null): JsonResponse
     {
-        $data = $this->apiLocationsService->getDistritosByMicrorregiao($microrregiao);
+        $data = $this->apiLocationsService->getDistrictsByMicroregion($microregion);
         return response()->json($data);
     }
 
     /**
-     * @param int|null $municipio
+     * @param int|null $municipality
      * 
      * @return JsonResponse
      */
-    public function getDistritosByMunicipio(?int $municipio = null): JsonResponse
+    public function getDistrictsByMunicipality(?int $municipality = null): JsonResponse
     {
-        $data = $this->apiLocationsService->getDistritosByMunicipio($municipio);
+        $data = $this->apiLocationsService->getDistrictsByMunicipality($municipality);
         return response()->json($data);
     }
 }

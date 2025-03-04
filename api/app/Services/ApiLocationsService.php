@@ -2,10 +2,10 @@
 
 namespace App\Services;
 
-use App\Interfaces\ApiLocalidadesInterface;
+use App\Interfaces\ApiLocationsInterface;
 use Illuminate\Support\Facades\Http;
 
-class ApiLocationsService implements ApiLocalidadesInterface
+class ApiLocationsService implements ApiLocationsInterface
 {
     protected string $baseUrl = 'https://servicodados.ibge.gov.br/api/v1/localidades';
 

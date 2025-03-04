@@ -2,7 +2,7 @@
 
 namespace App\Interfaces;
 
-interface ApiLocalidadesInterface
+interface ApiLocationsInterface
 {
     public function getDistritosById(?int $id): array;
     public function getDistritosByUf(?string $uf): array;

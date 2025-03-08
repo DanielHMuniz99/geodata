@@ -4,17 +4,21 @@ import Sidebar from './components/Sidebar.vue';
 </script>
 
 <template>
-  <div class="row gx-0">
-    <div class="col-12">
+  <v-card class="mx-auto" color="grey-lighten-3">
+    <v-layout>
       <Header/>
-    </div>
-  </div>
-  <div class="row gx-0">
-    <div class="col-2 full-height">
-      <Sidebar/>
-    </div>
-    <div class="col-10 full-height no-overflow-x">
-      <router-view/>
-    </div>
-  </div>
+      <v-main>
+        <v-container fluid>
+          <v-row dense>
+            <v-col cols="2">
+              <Sidebar/>
+            </v-col>
+            <v-col cols="10">
+              <router-view/>
+            </v-col>
+          </v-row>
+        </v-container>
+      </v-main>
+    </v-layout>
+  </v-card>
 </template>

@@ -1,6 +1,20 @@
 <template>
-  <div class="col-12">
-    <h3>Locations</h3>
-  </div>
-  <hr>
+  <v-card>
+  <v-form>
+    <v-container>
+      <v-row>
+        <v-col
+          cols="12"
+          md="4"
+        >
+        </v-col>
+        <v-col
+          cols="12"
+          md="4"
+        >
+        </v-col>
+      </v-row>
+    </v-container>
+  </v-form>
+</v-card>
 </template>

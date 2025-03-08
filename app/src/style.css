@@ -87,22 +87,8 @@ button:focus-visible {
   overflow-y: auto;
   background: #f8f9fa;
   padding: 15px;
-  left: 0;
-  top: 56px;
-  width: 100%;
   height: calc(100vh - 56px);
 }
-
-/* .sidebar {
-  position: fixed;
-  top: 56px;
-  left: 0;
-  width: 100%;
-  height: calc(100vh - 56px);
-  background: #f8f9fa;
-  padding: 15px;
-  overflow-y: auto;
-} */
 
 .clickable {
   cursor: pointer;

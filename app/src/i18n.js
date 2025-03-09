@@ -3,11 +3,15 @@ import { createI18n } from 'vue-i18n';
 const messages = {
   en: {
     search: "Search",
-    search_name: "Search name"
+    search_name: "Search name",
+    by_name: "By name",
+    ranking: "Ranking",
   },
   pt: {
     search: "Pesquisar",
-    search_name: "Pesquisar nome"
+    search_name: "Pesquisar nome",
+    by_name: "Por nome",
+    ranking: "Ranking",
   }
 };
 

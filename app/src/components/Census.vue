@@ -37,7 +37,7 @@ const searchName = async () => {
         {
           label: name.value,
           data: data.map((item) => item.frequencia),
-          borderColor: "blue",
+          borderColor: "rgba(19,84,122,.8)",
           fill: false,
         },
       ],

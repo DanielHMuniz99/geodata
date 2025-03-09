@@ -21,6 +21,6 @@ const app = createApp(App);
 app.use(vuetify);
 app.use(router);
 app.provide('config', {
-  apiUrl: 'http://127.0.0.1:8000/api'
+  apiUrl: 'http://127.0.0.1:8000'
 });
 app.mount('#app');

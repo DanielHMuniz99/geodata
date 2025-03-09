@@ -1,17 +1,15 @@
 <template>
-  <v-card>
-    <v-container>
-      <v-row>
-        <v-col cols="12" md="9" sm="9">
-          <v-text-field v-model="name" label="Pesquisar nome"></v-text-field>
-        </v-col>
-        <v-col cols="12" md="3" sm="3">
-          <v-btn size="x-large" @click="searchName()"> Pesquisar </v-btn>
-        </v-col>
-      </v-row>
-    </v-container>
+  <v-container>
+    <v-row>
+      <v-col cols="12" md="9" sm="9">
+        <v-text-field v-model="name" label="Pesquisar nome"></v-text-field>
+      </v-col>
+      <v-col cols="12" md="3" sm="3">
+        <v-btn size="x-large" @click="searchName()"> Pesquisar </v-btn>
+      </v-col>
+    </v-row>
     <LineChart v-if="chartData" :chartData="chartData" />
-  </v-card>
+  </v-container>
 </template>
 
 <script setup>
@@ -24,7 +22,7 @@ Chart.register(...registerables);
 
 const config = inject("config");
 const name = ref("");
-const chartData = ref(null); // Inicializa como null
+const chartData = ref(null);
 
 const searchName = async () => {
   try {
@@ -32,7 +30,7 @@ const searchName = async () => {
     const data = response.data[0]?.res || [];
 
     chartData.value = {
-      labels: data.map((item) => item.periodo.replace(/[\[\]]/g, "").split(",")[0]), // Extrai o ano inicial do período
+      labels: data.map((item) => item.periodo.replace(/[\[\]]/g, "").split(",")[0]),
       datasets: [
         {
           label: name.value,

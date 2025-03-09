@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import MainContent from '../components/MainContent.vue';
 import Locations from '../components/Locations.vue';
-import Census from '../components/Census.vue';
+import CensusView from '../components/CensusView.vue';
 
 const routes = [
   {
@@ -17,7 +17,7 @@ const routes = [
   {
     path: '/census',
     name: 'Census',
-    component: Census,
+    component: CensusView,
   }
 ];
 

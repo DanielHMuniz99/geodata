@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col cols="12" md="9" sm="9">
-        <v-text-field v-model="name" label="{{ t('search_name') }}"></v-text-field>
+        <v-text-field v-model="name" :label="t('search_name')"></v-text-field>
       </v-col>
       <v-col cols="12" md="3" sm="3">
         <v-btn size="x-large" @click="searchName()"> {{ t('search') }} </v-btn>

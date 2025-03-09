@@ -20,7 +20,7 @@
 <script setup>
 import { ref } from "vue";
 import NameSearch from "./NameSearch.vue";
-import RankingChart from "./census/RankingChart.vue";
+import RankingChart from "./RankingChart.vue";
 
 const tab = ref(null);
 </script>

@@ -5,7 +5,7 @@
         <v-text-field v-model="name" label="Pesquisar nome"></v-text-field>
       </v-col>
       <v-col cols="12" md="3" sm="3">
-        <v-btn size="x-large" @click="searchName()"> Pesquisar </v-btn>
+        <v-btn size="x-large" @click="searchName()"> {{ t('search') }} </v-btn>
       </v-col>
     </v-row>
     <LineChart v-if="chartData" :chartData="chartData" />
@@ -17,9 +17,11 @@ import { ref, inject } from "vue";
 import axios from "axios";
 import { LineChart } from "vue-chart-3";
 import { Chart, registerables } from "chart.js";
+import { useI18n } from 'vue-i18n';
 
 Chart.register(...registerables);
 
+const { t, locale } = useI18n();
 const config = inject("config");
 const name = ref("");
 const chartData = ref(null);

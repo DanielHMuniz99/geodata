@@ -1,16 +1,21 @@
 <template>
   <aside class="sidebar">
     <h5 class="text-center">API</h5>
-    <div class="row">
-      <div 
-        v-for="route in routes" 
-        :key="route.name" 
-        @click="openPage(route.path)" 
-        class="mt-2 clickable"
+    <v-row>
+      <v-col
+        cols="12"
+        md="12"
       >
-        {{ route.name }}
-      </div>
-    </div>
+        <div 
+          v-for="route in routes" 
+          :key="route.name" 
+          @click="openPage(route.path)"
+          class="mt-2 clickable"
+        >
+          {{ route.name }}
+        </div>
+      </v-col>
+    </v-row>
   </aside>
 </template>
 

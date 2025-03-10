@@ -8,6 +8,8 @@ const messages = {
     ranking: "Ranking",
     enter_valid_name: "Enter a valid name",
     name_cannot_contain_numbers: "The name cannot contain numbers",
+    portuguese: "Portuguese",
+    english: "English",
   },
   pt: {
     search: "Pesquisar",
@@ -16,6 +18,8 @@ const messages = {
     ranking: "Ranking",
     enter_valid_name: "Insira um nome válido",
     name_cannot_contain_numbers: "O nome não pode conter números",
+    portuguese: "Português",
+    english: "Inglês",
   }
 };
 

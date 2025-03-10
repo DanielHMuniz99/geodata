@@ -23,10 +23,11 @@ import { ref } from 'vue';
 import { useI18n } from 'vue-i18n';
 
 const i18n = useI18n({ useScope: 'global' });
+const { t, locale } = useI18n();
 
 const languages = ref([
-  { code: 'pt', label: 'Português', flag: '/brazil.png' },
-  { code: 'en', label: 'English', flag: '/usa.png' }
+  { code: 'pt', label: t('portuguese'), flag: '/brazil.png' },
+  { code: 'en', label: t('english'), flag: '/usa.png' }
 ]);
 
 const currentLanguage = ref(i18n.locale.value);

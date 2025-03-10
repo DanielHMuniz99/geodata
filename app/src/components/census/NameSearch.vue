@@ -18,6 +18,8 @@ import axios from "axios";
 import { LineChart } from "vue-chart-3";
 import { Chart, registerables } from "chart.js";
 import { useI18n } from 'vue-i18n';
+import { toast } from 'vue3-toastify';
+import 'vue3-toastify/dist/index.css';
 
 Chart.register(...registerables);
 
@@ -26,7 +28,35 @@ const config = inject("config");
 const name = ref("");
 const chartData = ref(null);
 
+const notify = (text) => {
+  toast(text, {
+    "theme": "colored",
+    "type": "error",
+    "dangerouslyHTMLString": true
+  })
+}
+
+const validate = async () => {
+
+  if (!name.value) {
+    notify(t('enter_valid_name'));
+    return false;
+  }
+
+  if (!(/[^0-9]/.test(name.value))) {
+    notify(t('name_cannot_contain_numbers'));
+    return false;
+  }
+
+  return true;
+}
+
 const searchName = async () => {
+
+  if (!(await validate())) {
+    return false;
+  }
+
   try {
     const response = await axios.get(`${config.apiUrl}/census/names/${name.value}`);
     const data = response.data[0]?.res || [];

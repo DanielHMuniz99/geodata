@@ -19,10 +19,15 @@ const messages = {
   }
 };
 
+let lang = 'en';
+if (localStorage.locale) {
+  lang = localStorage.locale;
+}
+
 const i18n = createI18n({
   legacy: false,
-  locale: 'en',
-  fallbackLocale: 'en',
+  locale: lang,
+  fallbackLocale: lang,
   messages
 });
 

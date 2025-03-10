@@ -29,11 +29,13 @@ const languages = ref([
   { code: 'en', label: 'English', flag: '/usa.png' }
 ]);
 
-const currentLanguage = ref('pt');
+const currentLanguage = ref(i18n.locale.value);
+
 const currentFlag = ref(languages.value.find(lang => lang.code === currentLanguage.value).flag);
 
 const changeLanguage = (lang) => {
   i18n.locale.value = lang.code;
+  localStorage.locale = lang.code;
   currentLanguage.value = lang.code;
   currentFlag.value = lang.flag;
 };

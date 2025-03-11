@@ -1,66 +1,113 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Dados de Distribuição de Renda
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Este repositório contém dados sobre a distribuição de renda em diversos países, coletados do **World Development Indicators (WDI)**, uma base de dados mantida pelo Banco Mundial. Os dados são utilizados para análises de desigualdade de renda e comparações entre países.
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Fonte dos Dados
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Os dados foram obtidos a partir do **World Development Indicators (WDI)**, disponível no site do Banco Mundial:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Link:** [World Development Indicators](https://databank.worldbank.org/reports.aspx?source=2&series=SI.POV.GINI&country=#)
+- **Fonte:** Banco Mundial
+- **Séries utilizadas:** Distribuição de renda por percentis.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Período dos Dados
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Os dados cobrem o período de **2020 a 2023**. Para alguns países ou séries, os dados podem estar incompletos ou indisponíveis para certos anos.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## Séries de Dados
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+As seguintes séries de dados foram utilizadas:
 
-### Premium Partners
+- **Income share held by highest 10%**  
+  Participação da renda detida pelos 10% mais ricos.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **Income share held by highest 20%**  
+  Participação da renda detida pelos 20% mais ricos.
 
-## Contributing
+- **Income share held by lowest 10%**  
+  Participação da renda detida pelos 10% mais pobres.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- **Income share held by lowest 20%**  
+  Participação da renda detida pelos 20% mais pobres.
 
-## Code of Conduct
+- **Income share held by second 20%**  
+  Participação da renda detida pelo segundo quintil (20% a 40%).
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- **Income share held by third 20%**  
+  Participação da renda detida pelo terceiro quintil (40% a 60%).
 
-## Security Vulnerabilities
+- **Income share held by fourth 20%**  
+  Participação da renda detida pelo quarto quintil (60% a 80%).
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## Estrutura dos Dados
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Os dados estão organizados em um arquivo CSV (`data.csv`), com a seguinte estrutura:
+
+| Series Name                  | Series Code   | Country Name | Country Code | 2020 [YR2020] | 2021 [YR2021] | 2022 [YR2022] | 2023 [YR2023] |
+|------------------------------|---------------|--------------|--------------|---------------|---------------|---------------|---------------|
+| Income share held by highest 10% | SI.DST.10TH.10 | Afghanistan  | AFG          | ..            | ..            | ..            | ..            |
+| Income share held by highest 10% | SI.DST.10TH.10 | Albania      | ALB          | 22.8          | ..            | ..            | ..            |
+
+### Descrição das Colunas:
+
+- **Series Name:** Nome da série de dados (ex.: "Income share held by highest 10%").
+- **Series Code:** Código único da série no Banco Mundial (ex.: "SI.DST.10TH.10").
+- **Country Name:** Nome do país.
+- **Country Code:** Código do país (ISO Alpha-3, ex.: "AFG" para Afeganistão).
+- **2020 [YR2020], 2021 [YR2021], 2022 [YR2022], 2023 [YR2023]:** Valores da série para cada ano. O símbolo `..` indica dados indisponíveis.
+
+---
+
+## Como Utilizar os Dados
+
+Os dados podem ser utilizados para:
+
+- Análises de desigualdade de renda.
+- Comparações entre países.
+- Estudos sobre distribuição de renda e pobreza.
+
+### Exemplo de Uso:
+
+1. **Leitura do CSV:**  
+   Utilize ferramentas como Python (Pandas), R ou planilhas (Excel, Google Sheets) para ler e processar o arquivo CSV.
+
+2. **Filtragem por País ou Ano:**  
+   Filtre os dados por país ou ano para análises específicas.
+
+3. **Visualização:**  
+   Crie gráficos (ex.: gráficos de barras, boxplots) para visualizar a distribuição de renda.
+
+---
+
+## Limitações dos Dados
+
+- **Dados Incompletos:**  
+  Alguns países ou anos podem ter dados faltantes (indicados por `..`).
+
+- **Atualização:**  
+  Os dados são atualizados periodicamente pelo Banco Mundial. Verifique a fonte oficial para obter os dados mais recentes.
+
+- **Metodologia:**  
+  A metodologia de coleta e cálculo pode variar entre países. Consulte a documentação do Banco Mundial para detalhes.
+
+---
+
+## Referências
+
+- Banco Mundial. (2023). **World Development Indicators**. Disponível em: [https://databank.worldbank.org/reports.aspx?source=2&series=SI.POV.GINI&country=#](https://databank.worldbank.org/reports.aspx?source=2&series=SI.POV.GINI&country=#).
+
+---
+
+## Licença
+
+Os dados são disponibilizados pelo Banco Mundial sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Consulte a [página de termos de uso](https://datacatalog.worldbank.org/public-licenses) para mais detalhes.
+
+---

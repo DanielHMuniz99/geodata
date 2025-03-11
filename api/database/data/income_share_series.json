@@ -1,0 +1,7058 @@
+[
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.800"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "30.600"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "31.200"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "29.800"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "21.500"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "23.600"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "23.000"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "23.100"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "23.800"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "27.400"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "20.700"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "21.400"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "21.900"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.200"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "22.700"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "32.600"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.300"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "39.500"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "41.600"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "41.000"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "32.600"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.900"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.200"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "29.900"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "31.100"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "33.100"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "29.500"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "37.300"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "34.500"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "29.400"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "28.200"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "41.800"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "43.700"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "43.500"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "35.700"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "37.000"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "37.200"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "35.700"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "highest_10",
+    "income_share": "35.100"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.800"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.300"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.300"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.300"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "25.700"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.500"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.200"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.900"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "23.800"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "30.400"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.200"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "28.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "36.000"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "34.700"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "34.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "highest_10",
+    "income_share": "33.200"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.000"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "28.700"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "23.500"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.300"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.600"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.900"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.500"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.900"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "30.500"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "25.200"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.000"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.200"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.800"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.100"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "23.300"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.100"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "25.500"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "27.900"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "28.300"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "29.000"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "highest_10",
+    "income_share": "29.900"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "27.600"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.200"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "26.800"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "23.800"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.800"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.600"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.100"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.900"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.200"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.800"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "28.400"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "31.800"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.800"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.600"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.000"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.200"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "22.000"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "27.500"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.200"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "28.500"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.100"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.000"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.500"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.900"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "28.300"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.100"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "35.100"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "34.400"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.100"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "24.600"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.400"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.700"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "24.200"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "21.600"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "21.400"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.800"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "39.300"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "highest_10",
+    "income_share": "36.900"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "33.300"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "33.100"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "35.400"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "32.900"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.500"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "30.700"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "32.500"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.800"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.800"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.900"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.500"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.200"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.000"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.700"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "26.600"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "28.800"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "27.100"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "25.900"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "19.000"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "19.100"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "20.500"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "20.600"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "25.000"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.700"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "30.100"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "22.400"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.700"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "26.400"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "21.100"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "27.000"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.100"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.600"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "22.000"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "27.000"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "33.000"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "34.700"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "21.700"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "24.600"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "24.600"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "29.100"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "29.700"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "30.200"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "29.900"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "highest_10",
+    "income_share": "30.800"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "30.500"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "23.200"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "highest_10",
+    "income_share": "28.500"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "28.100"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "highest_10",
+    "income_share": "39.100"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "38.000"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "47.700"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "47.800"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "46.600"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "35.500"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.700"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "37.300"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.800"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "38.400"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "42.000"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "34.800"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "35.500"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "36.000"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.300"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "37.300"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "49.000"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.700"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "54.700"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "57.500"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "56.900"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "47.400"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.600"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.300"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "45.000"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "47.900"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "49.200"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "44.900"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "53.300"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "49.900"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "44.700"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.600"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "57.900"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "59.800"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "59.600"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "51.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "54.400"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "54.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "52.700"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "highest_20",
+    "income_share": "52.100"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.300"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.300"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.100"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.600"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.100"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "36.500"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "36.300"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.000"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.800"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "46.500"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.700"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "44.000"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "52.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "51.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "50.900"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "highest_20",
+    "income_share": "49.800"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.000"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "44.800"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "39.000"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.900"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "36.700"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.100"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "38.800"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.400"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "45.600"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.500"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.500"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "40.600"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.000"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.500"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.100"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.600"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.800"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "38.100"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.900"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.000"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "43.300"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.500"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "44.000"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "highest_20",
+    "income_share": "44.600"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "43.200"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.800"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "42.200"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "38.300"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.200"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "42.900"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.000"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.700"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.500"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.100"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "38.800"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.300"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "44.100"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.600"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "39.900"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.000"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "38.500"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "38.500"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "36.400"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "42.900"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.500"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "43.800"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "44.100"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.500"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.000"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.900"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.900"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "39.700"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "50.700"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "49.800"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "36.000"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "39.800"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.400"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.400"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "39.000"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "35.400"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "35.200"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.200"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "55.600"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "highest_20",
+    "income_share": "53.500"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "49.300"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "48.900"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "50.800"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "49.100"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.300"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "46.500"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "48.000"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.300"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.300"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "42.100"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.600"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.000"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.900"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.300"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.400"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "43.900"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.700"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.300"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "33.300"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "33.300"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "34.400"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "34.600"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.000"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "40.400"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "45.600"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "37.200"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "37.700"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "41.500"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "35.900"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "42.700"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "42.700"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.200"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "36.600"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "41.600"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "48.800"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "50.100"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "35.900"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "40.000"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "39.700"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "45.200"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "45.700"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "46.500"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "46.200"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "highest_20",
+    "income_share": "46.800"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "46.700"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "38.600"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "highest_20",
+    "income_share": "43.900"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "43.200"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "highest_20",
+    "income_share": "56.400"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.800"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.400"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.000"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.900"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.500"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.500"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.700"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.500"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.800"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.600"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.000"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.200"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.300"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "0.900"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.000"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.000"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.400"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.600"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "lowest_10",
+    "income_share": "1.600"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.500"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.000"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.900"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.700"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.700"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.400"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.600"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "lowest_10",
+    "income_share": "1.600"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.900"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.900"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.900"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.800"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.400"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.500"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.300"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.300"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "lowest_10",
+    "income_share": "3.300"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.700"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.300"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.300"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.300"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.000"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.100"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "4.400"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.500"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.300"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.300"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.700"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.600"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.800"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.200"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "lowest_10",
+    "income_share": "1.200"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.800"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.100"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.400"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.700"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "1.900"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.900"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.700"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.300"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.500"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.500"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.400"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.200"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.200"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "1.900"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "3.800"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.200"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.800"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "4.000"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "4.300"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "3.100"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "3.000"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.000"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.300"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.800"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.200"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.500"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "lowest_10",
+    "income_share": "2.500"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "2.600"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "lowest_10",
+    "income_share": "1.500"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.400"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.700"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.000"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.400"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "10.200"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "9.200"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.900"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "8.200"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "10.300"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.200"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "8.800"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.700"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.300"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.500"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "3.300"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "3.600"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.100"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.100"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.300"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.400"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "6.900"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.900"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.900"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.400"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "3.100"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "3.100"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "3.200"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.500"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.000"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "4.300"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "4.500"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "lowest_20",
+    "income_share": "4.500"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.900"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.200"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.500"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.600"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.700"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.200"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.200"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.600"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "6.600"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.100"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "4.600"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "4.700"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "lowest_20",
+    "income_share": "4.700"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.100"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.100"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.500"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.300"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.000"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.600"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.800"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.700"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.900"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.100"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.000"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.000"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "7.800"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "lowest_20",
+    "income_share": "7.900"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.000"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.900"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.500"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.300"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.500"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.700"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.300"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.500"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.500"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "10.000"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.900"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.900"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.000"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.300"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "10.100"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "8.200"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.100"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.200"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "8.700"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.200"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.700"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "3.700"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "lowest_20",
+    "income_share": "3.700"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.300"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.500"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.000"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "4.800"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.800"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.700"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.500"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.600"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "8.600"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.900"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.400"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.000"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.400"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.900"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.300"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.600"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "9.100"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.100"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "10.300"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "10.200"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.000"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.400"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.900"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "8.200"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.800"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.500"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "9.200"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.500"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.600"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.800"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "9.300"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.300"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.200"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "10.000"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.700"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "6.100"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.200"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "5.700"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "lowest_20",
+    "income_share": "5.700"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "5.600"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "7.200"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "lowest_20",
+    "income_share": "6.600"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "6.800"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "lowest_20",
+    "income_share": "3.900"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.200"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.400"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "10.100"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.300"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "13.600"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.500"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.300"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "12.200"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.500"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.500"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "14.400"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.900"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "13.500"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.400"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "8.700"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "7.500"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "7.700"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "10.900"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.200"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.200"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.600"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.700"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.100"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "9.900"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.400"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "7.500"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "7.000"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "7.100"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.600"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "8.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "8.200"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "8.600"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "second_20",
+    "income_share": "8.700"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.600"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.400"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.600"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.800"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.800"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.400"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "14.400"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.000"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.900"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "10.700"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.100"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "8.900"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.000"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "9.100"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "second_20",
+    "income_share": "9.300"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.900"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.000"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.000"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.900"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.200"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "10.900"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.000"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.800"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.500"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.500"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.900"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.400"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.200"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.000"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.200"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.600"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.700"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "second_20",
+    "income_share": "11.600"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.600"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.700"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.900"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.300"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.100"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.300"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.200"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.400"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.500"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.300"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.700"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.900"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.700"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.200"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.000"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.500"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "14.200"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "12.600"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.800"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.600"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "14.600"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "7.900"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "second_20",
+    "income_share": "8.400"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.600"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.700"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "9.500"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.600"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.600"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "10.500"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.400"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.200"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.800"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.900"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "15.000"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.800"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "14.700"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.100"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.700"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.200"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "14.000"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "11.000"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "9.800"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "9.500"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "14.300"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "12.400"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "12.500"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "10.700"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.700"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "10.400"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "10.300"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "second_20",
+    "income_share": "10.200"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "10.300"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "13.200"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "second_20",
+    "income_share": "11.500"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "11.800"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "second_20",
+    "income_share": "7.300"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.300"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.000"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.900"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.800"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.300"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.500"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.800"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "16.000"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "18.000"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "18.100"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.900"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.100"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.500"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "12.900"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "12.100"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "12.300"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.900"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.500"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.100"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.700"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.100"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "14.000"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.700"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "12.000"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "11.300"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "11.300"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "13.700"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "12.600"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "12.800"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "13.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "third_20",
+    "income_share": "13.400"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.700"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.900"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.900"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.500"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.800"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.500"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.500"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.300"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.900"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.700"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "13.600"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "13.900"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "14.000"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "third_20",
+    "income_share": "14.200"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.800"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.700"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.400"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.300"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.500"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.400"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.700"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.200"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.200"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.200"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.100"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.400"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.600"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.500"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.400"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.100"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "16.300"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.100"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.700"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.700"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.500"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.300"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.400"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.600"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.800"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.400"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.200"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.600"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.700"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.600"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.800"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.300"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.000"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.400"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "13.800"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "14.100"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "16.800"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.200"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.000"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "18.300"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "18.300"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "12.500"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "third_20",
+    "income_share": "13.300"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.400"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.400"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "13.900"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.600"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.300"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.400"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.100"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.800"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.500"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.200"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.600"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.100"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "19.100"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "19.000"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "18.200"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "18.100"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.200"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.200"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.500"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.900"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.800"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.700"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.400"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "16.400"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "14.500"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "14.200"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "17.600"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "16.900"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "17.100"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.600"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.300"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "third_20",
+    "income_share": "15.100"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "15.200"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "17.700"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "third_20",
+    "income_share": "15.900"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "16.100"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "third_20",
+    "income_share": "11.900"
+  },
+  {
+    "code": "ALB",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "ARG",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.200"
+  },
+  {
+    "code": "ARG",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "ARG",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "ARM",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.200"
+  },
+  {
+    "code": "ARM",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "ARM",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "AUT",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "AUT",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.900"
+  },
+  {
+    "code": "BGD",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "BLR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "BEL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "BEL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "BEN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "BTN",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.800"
+  },
+  {
+    "code": "BOL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "BOL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "BRA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "19.300"
+  },
+  {
+    "code": "BRA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "19.600"
+  },
+  {
+    "code": "BRA",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "19.500"
+  },
+  {
+    "code": "BGR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "20.700"
+  },
+  {
+    "code": "BGR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "BFA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.100"
+  },
+  {
+    "code": "BDI",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.400"
+  },
+  {
+    "code": "CMR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "CAF",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.400"
+  },
+  {
+    "code": "TCD",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "21.400"
+  },
+  {
+    "code": "CHL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "19.700"
+  },
+  {
+    "code": "CHL",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "20.300"
+  },
+  {
+    "code": "CHN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "CHN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "COL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "19.500"
+  },
+  {
+    "code": "COL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "18.800"
+  },
+  {
+    "code": "COL",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "18.800"
+  },
+  {
+    "code": "COD",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "20.200"
+  },
+  {
+    "code": "CRI",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "20.900"
+  },
+  {
+    "code": "CRI",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "20.600"
+  },
+  {
+    "code": "CRI",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "21.100"
+  },
+  {
+    "code": "CRI",
+    "year": "2023",
+    "series": "fourth_20",
+    "income_share": "21.400"
+  },
+  {
+    "code": "CIV",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "HRV",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.500"
+  },
+  {
+    "code": "HRV",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.200"
+  },
+  {
+    "code": "CYP",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "CYP",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "CZE",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "CZE",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "DNK",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "DNK",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "DOM",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "DOM",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "DOM",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "ECU",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.100"
+  },
+  {
+    "code": "ECU",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.200"
+  },
+  {
+    "code": "ECU",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "21.300"
+  },
+  {
+    "code": "ECU",
+    "year": "2023",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "SLV",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "SLV",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "EST",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "EST",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "FIN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "FIN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "FRA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "FRA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "GMB",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "GEO",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.900"
+  },
+  {
+    "code": "GEO",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "GEO",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "23.200"
+  },
+  {
+    "code": "DEU",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "GRC",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "GRC",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "GNB",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "HUN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.900"
+  },
+  {
+    "code": "HUN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "IND",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "IND",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "IDN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "IDN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "IDN",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "21.100"
+  },
+  {
+    "code": "IDN",
+    "year": "2023",
+    "series": "fourth_20",
+    "income_share": "20.700"
+  },
+  {
+    "code": "IRN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "IRN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "IRN",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "IRL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "IRL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "ISR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.900"
+  },
+  {
+    "code": "ISR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.800"
+  },
+  {
+    "code": "ITA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "ITA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.900"
+  },
+  {
+    "code": "JAM",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "KAZ",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "KAZ",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "KEN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.800"
+  },
+  {
+    "code": "KEN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "20.600"
+  },
+  {
+    "code": "KOR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "KOR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.200"
+  },
+  {
+    "code": "KGZ",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "KGZ",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "KGZ",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "LVA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "LVA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "LTU",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "LTU",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "LUX",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.300"
+  },
+  {
+    "code": "LUX",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "MYS",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "MLI",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "MLT",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "MEX",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "20.600"
+  },
+  {
+    "code": "MEX",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "20.700"
+  },
+  {
+    "code": "MDA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "MNG",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "MNE",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.800"
+  },
+  {
+    "code": "MNE",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "24.000"
+  },
+  {
+    "code": "NPL",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.200"
+  },
+  {
+    "code": "NLD",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "NLD",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "NER",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "20.800"
+  },
+  {
+    "code": "PAN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "20.200"
+  },
+  {
+    "code": "PAN",
+    "year": "2023",
+    "series": "fourth_20",
+    "income_share": "21.200"
+  },
+  {
+    "code": "PRY",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "PRY",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.500"
+  },
+  {
+    "code": "PRY",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "20.800"
+  },
+  {
+    "code": "PER",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "PER",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "PER",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "PHL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "20.800"
+  },
+  {
+    "code": "POL",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "POL",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "PRT",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.200"
+  },
+  {
+    "code": "PRT",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.700"
+  },
+  {
+    "code": "ROU",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "24.300"
+  },
+  {
+    "code": "ROU",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "24.000"
+  },
+  {
+    "code": "RUS",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "RUS",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "SEN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "SRB",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "SRB",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "SVK",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.600"
+  },
+  {
+    "code": "SVK",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.400"
+  },
+  {
+    "code": "SVN",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "SVN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "ESP",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.700"
+  },
+  {
+    "code": "ESP",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.600"
+  },
+  {
+    "code": "SUR",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "SWE",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "SWE",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.200"
+  },
+  {
+    "code": "CHE",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.300"
+  },
+  {
+    "code": "SYR",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "23.100"
+  },
+  {
+    "code": "THA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.400"
+  },
+  {
+    "code": "THA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "TGO",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "TON",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "TUN",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.900"
+  },
+  {
+    "code": "TUR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "21.600"
+  },
+  {
+    "code": "TUR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "21.000"
+  },
+  {
+    "code": "UKR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "GBR",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "GBR",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "23.000"
+  },
+  {
+    "code": "USA",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.700"
+  },
+  {
+    "code": "USA",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.200"
+  },
+  {
+    "code": "USA",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.600"
+  },
+  {
+    "code": "URY",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.500"
+  },
+  {
+    "code": "URY",
+    "year": "2021",
+    "series": "fourth_20",
+    "income_share": "22.200"
+  },
+  {
+    "code": "URY",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "UZB",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "23.300"
+  },
+  {
+    "code": "VNM",
+    "year": "2020",
+    "series": "fourth_20",
+    "income_share": "22.100"
+  },
+  {
+    "code": "VNM",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "22.000"
+  },
+  {
+    "code": "ZMB",
+    "year": "2022",
+    "series": "fourth_20",
+    "income_share": "20.500"
+  }
+]

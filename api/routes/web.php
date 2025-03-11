@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\ApiCensusController;
 use App\Http\Controllers\Api\ApiLocationsController;
 use App\Http\Controllers\Api\ApiCountryGdpController;
+use App\Http\Controllers\Api\ApiIncomeDistributionsController;
 
 Route::prefix('census')->group(function () {
     Route::get('names/{name}', [ApiCensusController::class, 'getNames']);
@@ -21,4 +22,8 @@ Route::prefix('locations')->group(function () {
 Route::prefix('gdp')->group(function () {
     Route::get('/', [ApiCountryGdpController::class, 'index']);
     Route::get('/{country_code}/{year}', [ApiCountryGdpController::class, 'show']);
+});
+
+Route::prefix('gimi')->group(function () {
+    Route::get('/', [ApiIncomeDistributionsController::class, 'index']);
 });

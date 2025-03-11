@@ -1,0 +1,2217 @@
+[
+  {
+    "country": "ABW",
+    "year": 2024,
+    "gdp_growth": 5.5,
+    "gdp_nominal": 4.258,
+    "gdp_per_capita_nominal": 39697.146,
+    "gdp_ppp": 5.679,
+    "gdp_per_capita_ppp": 52944.99,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "ADVEC",
+    "year": 2024,
+    "gdp_growth": 1.8,
+    "gdp_nominal": 64681.709,
+    "gdp_per_capita_nominal": 58998.011,
+    "gdp_ppp": 78155.467,
+    "gdp_per_capita_ppp": 71287.805,
+    "gdp_ppp_share": 40.169
+  },
+  {
+    "country": "AFQ",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 2780.597,
+    "gdp_per_capita_nominal": 1940.614,
+    "gdp_ppp": 10155.027,
+    "gdp_per_capita_ppp": 7087.323,
+    "gdp_ppp_share": 5.219
+  },
+  {
+    "country": "AGO",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 113.286,
+    "gdp_per_capita_nominal": 2961.34,
+    "gdp_ppp": 374.937,
+    "gdp_per_capita_ppp": 9801.001,
+    "gdp_ppp_share": 0.193
+  },
+  {
+    "country": "ALB",
+    "year": 2024,
+    "gdp_growth": 3.3,
+    "gdp_nominal": 26.13,
+    "gdp_per_capita_nominal": 9598.191,
+    "gdp_ppp": 58.196,
+    "gdp_per_capita_ppp": 21376.586,
+    "gdp_ppp_share": 0.03
+  },
+  {
+    "country": "AND",
+    "year": 2024,
+    "gdp_growth": 1.4,
+    "gdp_nominal": 3.93,
+    "gdp_per_capita_nominal": 45278.52,
+    "gdp_ppp": 5.955,
+    "gdp_per_capita_ppp": 68612.275,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "APQ",
+    "year": 2024,
+    "gdp_growth": 4.5,
+    "gdp_nominal": 38348.143,
+    "gdp_per_capita_nominal": 8632.683,
+    "gdp_ppp": 89111.766,
+    "gdp_per_capita_ppp": 20060.258,
+    "gdp_ppp_share": 45.8
+  },
+  {
+    "country": "ARE",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 545.053,
+    "gdp_per_capita_nominal": 49549.588,
+    "gdp_ppp": 849.778,
+    "gdp_per_capita_ppp": 77251.442,
+    "gdp_ppp_share": 0.437
+  },
+  {
+    "country": "ARG",
+    "year": 2024,
+    "gdp_growth": -3.5,
+    "gdp_nominal": 604.382,
+    "gdp_per_capita_nominal": 12814.444,
+    "gdp_ppp": 1353.804,
+    "gdp_per_capita_ppp": 28704.096,
+    "gdp_ppp_share": 0.696
+  },
+  {
+    "country": "ARM",
+    "year": 2024,
+    "gdp_growth": 6,
+    "gdp_nominal": 25.251,
+    "gdp_per_capita_nominal": 8517.994,
+    "gdp_ppp": 69.297,
+    "gdp_per_capita_ppp": 23376.226,
+    "gdp_ppp_share": 0.036
+  },
+  {
+    "country": "AS5",
+    "year": 2024,
+    "gdp_growth": 4.5,
+    "gdp_nominal": 3372.027,
+    "gdp_per_capita_nominal": 6684.715,
+    "gdp_ppp": 10049.484,
+    "gdp_per_capita_ppp": 19922.121,
+    "gdp_ppp_share": 5.165
+  },
+  {
+    "country": "ATG",
+    "year": 2024,
+    "gdp_growth": 5.8,
+    "gdp_nominal": 2.292,
+    "gdp_per_capita_nominal": 22117.858,
+    "gdp_ppp": 3.261,
+    "gdp_per_capita_ppp": 31473.728,
+    "gdp_ppp_share": 0.002
+  },
+  {
+    "country": "AUS",
+    "year": 2024,
+    "gdp_growth": 1.2,
+    "gdp_nominal": 1802.006,
+    "gdp_per_capita_nominal": 65965.622,
+    "gdp_ppp": 1897.885,
+    "gdp_per_capita_ppp": 69475.413,
+    "gdp_ppp_share": 0.975
+  },
+  {
+    "country": "AUT",
+    "year": 2024,
+    "gdp_growth": -0.6,
+    "gdp_nominal": 535.804,
+    "gdp_per_capita_nominal": 58668.601,
+    "gdp_ppp": 667.153,
+    "gdp_per_capita_ppp": 73050.854,
+    "gdp_ppp_share": 0.343
+  },
+  {
+    "country": "AZE",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 75.649,
+    "gdp_per_capita_nominal": 7381.368,
+    "gdp_ppp": 253.121,
+    "gdp_per_capita_ppp": 24698.092,
+    "gdp_ppp_share": 0.13
+  },
+  {
+    "country": "AZQ",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 2054.243,
+    "gdp_per_capita_nominal": 62867.346,
+    "gdp_ppp": 2181.793,
+    "gdp_per_capita_ppp": 66770.848,
+    "gdp_ppp_share": 1.121
+  },
+  {
+    "country": "BDI",
+    "year": 2024,
+    "gdp_growth": 2.2,
+    "gdp_nominal": 4.285,
+    "gdp_per_capita_nominal": 320.636,
+    "gdp_ppp": 13.174,
+    "gdp_per_capita_ppp": 985.645,
+    "gdp_ppp_share": 0.007
+  },
+  {
+    "country": "BEL",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 662.183,
+    "gdp_per_capita_nominal": 56128.791,
+    "gdp_ppp": 863.837,
+    "gdp_per_capita_ppp": 73221.637,
+    "gdp_ppp_share": 0.444
+  },
+  {
+    "country": "BEN",
+    "year": 2024,
+    "gdp_growth": 6.5,
+    "gdp_nominal": 21.322,
+    "gdp_per_capita_nominal": 1510.188,
+    "gdp_ppp": 63.541,
+    "gdp_per_capita_ppp": 4500.581,
+    "gdp_ppp_share": 0.033
+  },
+  {
+    "country": "BFA",
+    "year": 2024,
+    "gdp_growth": 5.5,
+    "gdp_nominal": 21.858,
+    "gdp_per_capita_nominal": 908.372,
+    "gdp_ppp": 68.58,
+    "gdp_per_capita_ppp": 2850.074,
+    "gdp_ppp_share": 0.035
+  },
+  {
+    "country": "BGD",
+    "year": 2024,
+    "gdp_growth": 5.4,
+    "gdp_nominal": 451.468,
+    "gdp_per_capita_nominal": 2624.532,
+    "gdp_ppp": 1692.743,
+    "gdp_per_capita_ppp": 9840.469,
+    "gdp_ppp_share": 0.87
+  },
+  {
+    "country": "BGR",
+    "year": 2024,
+    "gdp_growth": 2.3,
+    "gdp_nominal": 108.425,
+    "gdp_per_capita_nominal": 17069.33,
+    "gdp_ppp": 248.906,
+    "gdp_per_capita_ppp": 39185.322,
+    "gdp_ppp_share": 0.128
+  },
+  {
+    "country": "BHR",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 47.812,
+    "gdp_per_capita_nominal": 29573.098,
+    "gdp_ppp": 105.646,
+    "gdp_per_capita_ppp": 65344.834,
+    "gdp_ppp_share": 0.054
+  },
+  {
+    "country": "BHS",
+    "year": 2024,
+    "gdp_growth": 1.9,
+    "gdp_nominal": 14.825,
+    "gdp_per_capita_nominal": 36321.503,
+    "gdp_ppp": 15.312,
+    "gdp_per_capita_ppp": 37516.978,
+    "gdp_ppp_share": 0.008
+  },
+  {
+    "country": "BIH",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 28.404,
+    "gdp_per_capita_nominal": 8220.816,
+    "gdp_ppp": 74.278,
+    "gdp_per_capita_ppp": 21498.089,
+    "gdp_ppp_share": 0.038
+  },
+  {
+    "country": "BLR",
+    "year": 2024,
+    "gdp_growth": 3.6,
+    "gdp_nominal": 73.129,
+    "gdp_per_capita_nominal": 8007.673,
+    "gdp_ppp": 293.136,
+    "gdp_per_capita_ppp": 32098.475,
+    "gdp_ppp_share": 0.151
+  },
+  {
+    "country": "BLZ",
+    "year": 2024,
+    "gdp_growth": 5.4,
+    "gdp_nominal": 3.342,
+    "gdp_per_capita_nominal": 8133.122,
+    "gdp_ppp": 6.146,
+    "gdp_per_capita_ppp": 14957.565,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "BOL",
+    "year": 2024,
+    "gdp_growth": 1.6,
+    "gdp_nominal": 48.172,
+    "gdp_per_capita_nominal": 3919.602,
+    "gdp_ppp": 139.158,
+    "gdp_per_capita_ppp": 11322.892,
+    "gdp_ppp_share": 0.072
+  },
+  {
+    "country": "BRA",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 2188.419,
+    "gdp_per_capita_nominal": 10296.412,
+    "gdp_ppp": 4702.004,
+    "gdp_per_capita_ppp": 22122.71,
+    "gdp_ppp_share": 2.417
+  },
+  {
+    "country": "BRB",
+    "year": 2024,
+    "gdp_growth": 3.9,
+    "gdp_nominal": 7.201,
+    "gdp_per_capita_nominal": 24758.604,
+    "gdp_ppp": 6.408,
+    "gdp_per_capita_ppp": 22034.88,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "BRN",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 15.71,
+    "gdp_per_capita_nominal": 34871.7,
+    "gdp_ppp": 41.016,
+    "gdp_per_capita_ppp": 91046.396,
+    "gdp_ppp_share": 0.021
+  },
+  {
+    "country": "BTN",
+    "year": 2024,
+    "gdp_growth": 5.2,
+    "gdp_nominal": 3.151,
+    "gdp_per_capita_nominal": 4068.072,
+    "gdp_ppp": 12.979,
+    "gdp_per_capita_ppp": 16754.619,
+    "gdp_ppp_share": 0.007
+  },
+  {
+    "country": "BWA",
+    "year": 2024,
+    "gdp_growth": 1,
+    "gdp_nominal": 19.966,
+    "gdp_per_capita_nominal": 7341.129,
+    "gdp_ppp": 53.642,
+    "gdp_per_capita_ppp": 19723.373,
+    "gdp_ppp_share": 0.028
+  },
+  {
+    "country": "CAF",
+    "year": 2024,
+    "gdp_growth": 1.4,
+    "gdp_nominal": 2.823,
+    "gdp_per_capita_nominal": 529.492,
+    "gdp_ppp": 6.91,
+    "gdp_per_capita_ppp": 1296.324,
+    "gdp_ppp_share": 0.004
+  },
+  {
+    "country": "CAN",
+    "year": 2024,
+    "gdp_growth": 1.3,
+    "gdp_nominal": 2214.796,
+    "gdp_per_capita_nominal": 53834.483,
+    "gdp_ppp": 2582.228,
+    "gdp_per_capita_ppp": 62765.568,
+    "gdp_ppp_share": 1.327
+  },
+  {
+    "country": "CAQ",
+    "year": 2024,
+    "gdp_growth": 3.5,
+    "gdp_nominal": 1996.266,
+    "gdp_per_capita_nominal": 10871.173,
+    "gdp_ppp": 5428.986,
+    "gdp_per_capita_ppp": 29564.918,
+    "gdp_ppp_share": 2.79
+  },
+  {
+    "country": "CBQ",
+    "year": 2024,
+    "gdp_growth": 11.9,
+    "gdp_nominal": 141.863,
+    "gdp_per_capita_nominal": 7141.123,
+    "gdp_ppp": 247.228,
+    "gdp_per_capita_ppp": 12445.022,
+    "gdp_ppp_share": 0.127
+  },
+  {
+    "country": "CHE",
+    "year": 2024,
+    "gdp_growth": 1.3,
+    "gdp_nominal": 942.265,
+    "gdp_per_capita_nominal": 106097.643,
+    "gdp_ppp": 851.136,
+    "gdp_per_capita_ppp": 95836.636,
+    "gdp_ppp_share": 0.437
+  },
+  {
+    "country": "CHL",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 328.72,
+    "gdp_per_capita_nominal": 16365.296,
+    "gdp_ppp": 674.388,
+    "gdp_per_capita_ppp": 33574.404,
+    "gdp_ppp_share": 0.347
+  },
+  {
+    "country": "CHN",
+    "year": 2024,
+    "gdp_growth": 4.8,
+    "gdp_nominal": 18273.357,
+    "gdp_per_capita_nominal": 12968.567,
+    "gdp_ppp": 37072.086,
+    "gdp_per_capita_ppp": 26309.991,
+    "gdp_ppp_share": 19.053
+  },
+  {
+    "country": "CIV",
+    "year": 2024,
+    "gdp_growth": 6.5,
+    "gdp_nominal": 86.993,
+    "gdp_per_capita_nominal": 2719.971,
+    "gdp_ppp": 244.611,
+    "gdp_per_capita_ppp": 7648.157,
+    "gdp_ppp_share": 0.126
+  },
+  {
+    "country": "CMQ",
+    "year": 2024,
+    "gdp_growth": 3.8,
+    "gdp_nominal": 513.099,
+    "gdp_per_capita_nominal": 8238.215,
+    "gdp_ppp": 1147.106,
+    "gdp_per_capita_ppp": 18417.698,
+    "gdp_ppp_share": 0.59
+  },
+  {
+    "country": "CMR",
+    "year": 2024,
+    "gdp_growth": 3.9,
+    "gdp_nominal": 53.391,
+    "gdp_per_capita_nominal": 1821.317,
+    "gdp_ppp": 163.156,
+    "gdp_per_capita_ppp": 5565.668,
+    "gdp_ppp_share": 0.084
+  },
+  {
+    "country": "COD",
+    "year": 2024,
+    "gdp_growth": 4.7,
+    "gdp_nominal": 72.483,
+    "gdp_per_capita_nominal": 702.373,
+    "gdp_ppp": 190.131,
+    "gdp_per_capita_ppp": 1842.416,
+    "gdp_ppp_share": 0.098
+  },
+  {
+    "country": "COG",
+    "year": 2024,
+    "gdp_growth": 2.8,
+    "gdp_nominal": 15.044,
+    "gdp_per_capita_nominal": 2384.399,
+    "gdp_ppp": 40.403,
+    "gdp_per_capita_ppp": 6403.607,
+    "gdp_ppp_share": 0.021
+  },
+  {
+    "country": "COL",
+    "year": 2024,
+    "gdp_growth": 1.6,
+    "gdp_nominal": 417.207,
+    "gdp_per_capita_nominal": 7917.244,
+    "gdp_ppp": 1129.638,
+    "gdp_per_capita_ppp": 21436.901,
+    "gdp_ppp_share": 0.581
+  },
+  {
+    "country": "COM",
+    "year": 2024,
+    "gdp_growth": 3.5,
+    "gdp_nominal": 1.45,
+    "gdp_per_capita_nominal": 1629.863,
+    "gdp_ppp": 3.435,
+    "gdp_per_capita_ppp": 3860.618,
+    "gdp_ppp_share": 0.002
+  },
+  {
+    "country": "CPV",
+    "year": 2024,
+    "gdp_growth": 4.7,
+    "gdp_nominal": 2.756,
+    "gdp_per_capita_nominal": 5388.164,
+    "gdp_ppp": 5.83,
+    "gdp_per_capita_ppp": 11397.066,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "CRI",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 95.149,
+    "gdp_per_capita_nominal": 17860.414,
+    "gdp_ppp": 158.645,
+    "gdp_per_capita_ppp": 29779.185,
+    "gdp_ppp_share": 0.082
+  },
+  {
+    "country": "CYP",
+    "year": 2024,
+    "gdp_growth": 3.3,
+    "gdp_nominal": 34.79,
+    "gdp_per_capita_nominal": 37766.666,
+    "gdp_ppp": 55.14,
+    "gdp_per_capita_ppp": 59857.876,
+    "gdp_ppp_share": 0.028
+  },
+  {
+    "country": "CZE",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 342.992,
+    "gdp_per_capita_nominal": 31365.509,
+    "gdp_ppp": 619.881,
+    "gdp_per_capita_ppp": 56686.216,
+    "gdp_ppp_share": 0.319
+  },
+  {
+    "country": "DA",
+    "year": 2024,
+    "gdp_growth": 5.3,
+    "gdp_nominal": 26276.864,
+    "gdp_per_capita_nominal": 6955.798,
+    "gdp_ppp": 66794.352,
+    "gdp_per_capita_ppp": 17681.257,
+    "gdp_ppp_share": 34.329
+  },
+  {
+    "country": "DEU",
+    "year": 2024,
+    "gdp_growth": 0,
+    "gdp_nominal": 4710.032,
+    "gdp_per_capita_nominal": 55521.345,
+    "gdp_ppp": 6017.222,
+    "gdp_per_capita_ppp": 70930.357,
+    "gdp_ppp_share": 3.093
+  },
+  {
+    "country": "DJI",
+    "year": 2024,
+    "gdp_growth": 6.5,
+    "gdp_nominal": 4.334,
+    "gdp_per_capita_nominal": 4154.792,
+    "gdp_ppp": 8.971,
+    "gdp_per_capita_ppp": 8600.896,
+    "gdp_ppp_share": 0.005
+  },
+  {
+    "country": "DMA",
+    "year": 2024,
+    "gdp_growth": 4.6,
+    "gdp_nominal": 0.703,
+    "gdp_per_capita_nominal": 9391.59,
+    "gdp_ppp": 1.377,
+    "gdp_per_capita_ppp": 18390.67,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "DNK",
+    "year": 2024,
+    "gdp_growth": 1.9,
+    "gdp_nominal": 412.293,
+    "gdp_per_capita_nominal": 69273.048,
+    "gdp_ppp": 496.696,
+    "gdp_per_capita_ppp": 83454.418,
+    "gdp_ppp_share": 0.255
+  },
+  {
+    "country": "DOM",
+    "year": 2024,
+    "gdp_growth": 5.1,
+    "gdp_nominal": 126.238,
+    "gdp_per_capita_nominal": 11692.09,
+    "gdp_ppp": 312.565,
+    "gdp_per_capita_ppp": 28949.585,
+    "gdp_ppp_share": 0.161
+  },
+  {
+    "country": "DZA",
+    "year": 2024,
+    "gdp_growth": 3.8,
+    "gdp_nominal": 260.134,
+    "gdp_per_capita_nominal": 5579.128,
+    "gdp_ppp": 826.136,
+    "gdp_per_capita_ppp": 17718.286,
+    "gdp_ppp_share": 0.425
+  },
+  {
+    "country": "EAQ",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 25413.804,
+    "gdp_per_capita_nominal": 15696.302,
+    "gdp_ppp": 49383.185,
+    "gdp_per_capita_ppp": 30500.486,
+    "gdp_ppp_share": 25.381
+  },
+  {
+    "country": "ECU",
+    "year": 2024,
+    "gdp_growth": 0.3,
+    "gdp_nominal": 121.425,
+    "gdp_per_capita_nominal": 6758.373,
+    "gdp_ppp": 296.728,
+    "gdp_per_capita_ppp": 16515.535,
+    "gdp_ppp_share": 0.153
+  },
+  {
+    "country": "EDE",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 5556.849,
+    "gdp_per_capita_nominal": 15206.805,
+    "gdp_ppp": 15265.793,
+    "gdp_per_capita_ppp": 41776.18,
+    "gdp_ppp_share": 7.846
+  },
+  {
+    "country": "EEQ",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 5021.184,
+    "gdp_per_capita_nominal": 16393.826,
+    "gdp_ppp": 13253.856,
+    "gdp_per_capita_ppp": 43272.945,
+    "gdp_ppp_share": 6.812
+  },
+  {
+    "country": "EGY",
+    "year": 2024,
+    "gdp_growth": 2.7,
+    "gdp_nominal": 380.044,
+    "gdp_per_capita_nominal": 3541.75,
+    "gdp_ppp": 2231.822,
+    "gdp_per_capita_ppp": 20799.054,
+    "gdp_ppp_share": 1.147
+  },
+  {
+    "country": "ESP",
+    "year": 2024,
+    "gdp_growth": 2.9,
+    "gdp_nominal": 1731.469,
+    "gdp_per_capita_nominal": 35788.734,
+    "gdp_ppp": 2665.23,
+    "gdp_per_capita_ppp": 55089.205,
+    "gdp_ppp_share": 1.37
+  },
+  {
+    "country": "EST",
+    "year": 2024,
+    "gdp_growth": -0.9,
+    "gdp_nominal": 43.044,
+    "gdp_per_capita_nominal": 31530.969,
+    "gdp_ppp": 65.537,
+    "gdp_per_capita_ppp": 48008.04,
+    "gdp_ppp_share": 0.034
+  },
+  {
+    "country": "ETH",
+    "year": 2024,
+    "gdp_growth": 6.1,
+    "gdp_nominal": 145.031,
+    "gdp_per_capita_nominal": 1350.401,
+    "gdp_ppp": 434.441,
+    "gdp_per_capita_ppp": 4045.132,
+    "gdp_ppp_share": 0.223
+  },
+  {
+    "country": "EU",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 19403.162,
+    "gdp_per_capita_nominal": 43352.743,
+    "gdp_ppp": 28044.235,
+    "gdp_per_capita_ppp": 62659.606,
+    "gdp_ppp_share": 14.414
+  },
+  {
+    "country": "EUQ",
+    "year": 2024,
+    "gdp_growth": 1.6,
+    "gdp_nominal": 27096.28,
+    "gdp_per_capita_nominal": 36750.646,
+    "gdp_ppp": 42089.742,
+    "gdp_per_capita_ppp": 57086.257,
+    "gdp_ppp_share": 21.632
+  },
+  {
+    "country": "EURO",
+    "year": 2024,
+    "gdp_growth": 0.8,
+    "gdp_nominal": 16370.212,
+    "gdp_per_capita_nominal": 46635.066
+  },
+  {
+    "country": "FIN",
+    "year": 2024,
+    "gdp_growth": -0.2,
+    "gdp_nominal": 306.083,
+    "gdp_per_capita_nominal": 54773.988,
+    "gdp_ppp": 361.312,
+    "gdp_per_capita_ppp": 64657.338,
+    "gdp_ppp_share": 0.186
+  },
+  {
+    "country": "FJI",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 5.773,
+    "gdp_per_capita_nominal": 6256.634,
+    "gdp_ppp": 14.766,
+    "gdp_per_capita_ppp": 16002.615,
+    "gdp_ppp_share": 0.008
+  },
+  {
+    "country": "FRA",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 3174.099,
+    "gdp_per_capita_nominal": 48011.828,
+    "gdp_ppp": 4359.372,
+    "gdp_per_capita_ppp": 65940.409,
+    "gdp_ppp_share": 2.241
+  },
+  {
+    "country": "FSM",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 0.484,
+    "gdp_per_capita_nominal": 5119.566,
+    "gdp_ppp": 0.443,
+    "gdp_per_capita_ppp": 4689.468,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "GAB",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 20.897,
+    "gdp_per_capita_nominal": 9256.657,
+    "gdp_ppp": 54.472,
+    "gdp_per_capita_ppp": 24128.778,
+    "gdp_ppp_share": 0.028
+  },
+  {
+    "country": "GBR",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 3587.545,
+    "gdp_per_capita_nominal": 52423.294,
+    "gdp_ppp": 4282.173,
+    "gdp_per_capita_ppp": 62573.612,
+    "gdp_ppp_share": 2.201
+  },
+  {
+    "country": "GEO",
+    "year": 2024,
+    "gdp_growth": 7.6,
+    "gdp_nominal": 33.191,
+    "gdp_per_capita_nominal": 8882.635,
+    "gdp_ppp": 102.245,
+    "gdp_per_capita_ppp": 27363.366,
+    "gdp_ppp_share": 0.053
+  },
+  {
+    "country": "GHA",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 75.307,
+    "gdp_per_capita_nominal": 2231.793,
+    "gdp_ppp": 269.105,
+    "gdp_per_capita_ppp": 7975.131,
+    "gdp_ppp_share": 0.138
+  },
+  {
+    "country": "GIN",
+    "year": 2024,
+    "gdp_growth": 4.1,
+    "gdp_nominal": 25.474,
+    "gdp_per_capita_nominal": 1652.312,
+    "gdp_ppp": 66.624,
+    "gdp_per_capita_ppp": 4321.381,
+    "gdp_ppp_share": 0.034
+  },
+  {
+    "country": "GMB",
+    "year": 2024,
+    "gdp_growth": 5.8,
+    "gdp_nominal": 2.693,
+    "gdp_per_capita_nominal": 988.881,
+    "gdp_ppp": 9.509,
+    "gdp_per_capita_ppp": 3491.217,
+    "gdp_ppp_share": 0.005
+  },
+  {
+    "country": "GNB",
+    "year": 2024,
+    "gdp_growth": 5,
+    "gdp_nominal": 2.188,
+    "gdp_per_capita_nominal": 1106.242,
+    "gdp_ppp": 6.152,
+    "gdp_per_capita_ppp": 3110.196,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "GNQ",
+    "year": 2024,
+    "gdp_growth": 5.8,
+    "gdp_nominal": 12.884,
+    "gdp_per_capita_nominal": 8101.698,
+    "gdp_ppp": 34.59,
+    "gdp_per_capita_ppp": 21750.628,
+    "gdp_ppp_share": 0.018
+  },
+  {
+    "country": "GRC",
+    "year": 2024,
+    "gdp_growth": 2.3,
+    "gdp_nominal": 252.732,
+    "gdp_per_capita_nominal": 24341.505,
+    "gdp_ppp": 436.757,
+    "gdp_per_capita_ppp": 42065.72,
+    "gdp_ppp_share": 0.224
+  },
+  {
+    "country": "GRD",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 1.393,
+    "gdp_per_capita_nominal": 12050.392,
+    "gdp_ppp": 2.348,
+    "gdp_per_capita_ppp": 20305.806,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "GTM",
+    "year": 2024,
+    "gdp_growth": 3.5,
+    "gdp_nominal": 112.369,
+    "gdp_per_capita_nominal": 6295.05,
+    "gdp_ppp": 264.033,
+    "gdp_per_capita_ppp": 14791.412,
+    "gdp_ppp_share": 0.136
+  },
+  {
+    "country": "GUY",
+    "year": 2024,
+    "gdp_growth": 43.8,
+    "gdp_nominal": 23.033,
+    "gdp_per_capita_nominal": 28920.551,
+    "gdp_ppp": 62.651,
+    "gdp_per_capita_ppp": 78666.763,
+    "gdp_ppp_share": 0.032
+  },
+  {
+    "country": "HKG",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 401.751,
+    "gdp_per_capita_nominal": 53164.778,
+    "gdp_ppp": 569.828,
+    "gdp_per_capita_ppp": 75406.842,
+    "gdp_ppp_share": 0.293
+  },
+  {
+    "country": "HND",
+    "year": 2024,
+    "gdp_growth": 3.6,
+    "gdp_nominal": 36.735,
+    "gdp_per_capita_nominal": 3446.298,
+    "gdp_ppp": 81.06,
+    "gdp_per_capita_ppp": 7604.664,
+    "gdp_ppp_share": 0.042
+  },
+  {
+    "country": "HRV",
+    "year": 2024,
+    "gdp_growth": 3.4,
+    "gdp_nominal": 89.665,
+    "gdp_per_capita_nominal": 23380.437,
+    "gdp_ppp": 187.192,
+    "gdp_per_capita_ppp": 48811.093,
+    "gdp_ppp_share": 0.096
+  },
+  {
+    "country": "HTI",
+    "year": 2024,
+    "gdp_growth": -4,
+    "gdp_nominal": 26.274,
+    "gdp_per_capita_nominal": 2120.413,
+    "gdp_ppp": 37.654,
+    "gdp_per_capita_ppp": 3038.798,
+    "gdp_ppp_share": 0.019
+  },
+  {
+    "country": "HUN",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 228.806,
+    "gdp_per_capita_nominal": 23881.429,
+    "gdp_ppp": 448.456,
+    "gdp_per_capita_ppp": 46807.165,
+    "gdp_ppp_share": 0.23
+  },
+  {
+    "country": "IDN",
+    "year": 2024,
+    "gdp_growth": 5,
+    "gdp_nominal": 1402.59,
+    "gdp_per_capita_nominal": 4980.722,
+    "gdp_ppp": 4658.321,
+    "gdp_per_capita_ppp": 16542.109,
+    "gdp_ppp_share": 2.394
+  },
+  {
+    "country": "IND",
+    "year": 2024,
+    "gdp_growth": 7,
+    "gdp_nominal": 3889.13,
+    "gdp_per_capita_nominal": 2697.563,
+    "gdp_ppp": 16019.97,
+    "gdp_per_capita_ppp": 11111.708,
+    "gdp_ppp_share": 8.234
+  },
+  {
+    "country": "IRL",
+    "year": 2024,
+    "gdp_growth": -0.2,
+    "gdp_nominal": 560.566,
+    "gdp_per_capita_nominal": 103500.385,
+    "gdp_ppp": 691.904,
+    "gdp_per_capita_ppp": 127750.161,
+    "gdp_ppp_share": 0.356
+  },
+  {
+    "country": "IRN",
+    "year": 2024,
+    "gdp_growth": 3.7,
+    "gdp_nominal": 434.243,
+    "gdp_per_capita_nominal": 5012.844,
+    "gdp_ppp": 1698.463,
+    "gdp_per_capita_ppp": 19606.813,
+    "gdp_ppp_share": 0.873
+  },
+  {
+    "country": "IRQ",
+    "year": 2024,
+    "gdp_growth": 0.1,
+    "gdp_nominal": 264.149,
+    "gdp_per_capita_nominal": 5947.315,
+    "gdp_ppp": 655.417,
+    "gdp_per_capita_ppp": 14756.731,
+    "gdp_ppp_share": 0.337
+  },
+  {
+    "country": "ISL",
+    "year": 2024,
+    "gdp_growth": 0.6,
+    "gdp_nominal": 32.919,
+    "gdp_per_capita_nominal": 85786.894,
+    "gdp_ppp": 30.241,
+    "gdp_per_capita_ppp": 78808.044,
+    "gdp_ppp_share": 0.016
+  },
+  {
+    "country": "ISR",
+    "year": 2024,
+    "gdp_growth": 0.7,
+    "gdp_nominal": 528.067,
+    "gdp_per_capita_nominal": 53110.949,
+    "gdp_ppp": 541.343,
+    "gdp_per_capita_ppp": 54446.208,
+    "gdp_ppp_share": 0.278
+  },
+  {
+    "country": "ITA",
+    "year": 2024,
+    "gdp_growth": 0.7,
+    "gdp_nominal": 2376.51,
+    "gdp_per_capita_nominal": 40286.836,
+    "gdp_ppp": 3597.954,
+    "gdp_per_capita_ppp": 60992.864,
+    "gdp_ppp_share": 1.849
+  },
+  {
+    "country": "JAM",
+    "year": 2024,
+    "gdp_growth": 1.3,
+    "gdp_nominal": 20.586,
+    "gdp_per_capita_nominal": 7486.621,
+    "gdp_ppp": 33.775,
+    "gdp_per_capita_ppp": 12283.257,
+    "gdp_ppp_share": 0.017
+  },
+  {
+    "country": "JOR",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 53.305,
+    "gdp_per_capita_nominal": 4682.081,
+    "gdp_ppp": 124.284,
+    "gdp_per_capita_ppp": 10916.507,
+    "gdp_ppp_share": 0.064
+  },
+  {
+    "country": "JPN",
+    "year": 2024,
+    "gdp_growth": 0.3,
+    "gdp_nominal": 4070.094,
+    "gdp_per_capita_nominal": 32859.112,
+    "gdp_ppp": 6572.198,
+    "gdp_per_capita_ppp": 53059.36,
+    "gdp_ppp_share": 3.378
+  },
+  {
+    "country": "KAZ",
+    "year": 2024,
+    "gdp_growth": 3.5,
+    "gdp_nominal": 292.553,
+    "gdp_per_capita_nominal": 14569.9,
+    "gdp_ppp": 830.605,
+    "gdp_per_capita_ppp": 41366.311,
+    "gdp_ppp_share": 0.427
+  },
+  {
+    "country": "KEN",
+    "year": 2024,
+    "gdp_growth": 5,
+    "gdp_nominal": 116.321,
+    "gdp_per_capita_nominal": 2218.025,
+    "gdp_ppp": 375.356,
+    "gdp_per_capita_ppp": 7157.32,
+    "gdp_ppp_share": 0.193
+  },
+  {
+    "country": "KGZ",
+    "year": 2024,
+    "gdp_growth": 6.5,
+    "gdp_nominal": 15.774,
+    "gdp_per_capita_nominal": 2228.777,
+    "gdp_ppp": 55.01,
+    "gdp_per_capita_ppp": 7772.556,
+    "gdp_ppp_share": 0.028
+  },
+  {
+    "country": "KHM",
+    "year": 2024,
+    "gdp_growth": 5.5,
+    "gdp_nominal": 47.147,
+    "gdp_per_capita_nominal": 2743.991,
+    "gdp_ppp": 139.801,
+    "gdp_per_capita_ppp": 8136.533,
+    "gdp_ppp_share": 0.072
+  },
+  {
+    "country": "KIR",
+    "year": 2024,
+    "gdp_growth": 5.8,
+    "gdp_nominal": 0.312,
+    "gdp_per_capita_nominal": 2455.051,
+    "gdp_ppp": 0.459,
+    "gdp_per_capita_ppp": 3611.797,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "KNA",
+    "year": 2024,
+    "gdp_growth": 4.4,
+    "gdp_nominal": 1.158,
+    "gdp_per_capita_nominal": 24202.606,
+    "gdp_ppp": 1.688,
+    "gdp_per_capita_ppp": 35275.591,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "KOR",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 1869.916,
+    "gdp_per_capita_nominal": 36131.846,
+    "gdp_ppp": 3258.366,
+    "gdp_per_capita_ppp": 62960.47,
+    "gdp_ppp_share": 1.675
+  },
+  {
+    "country": "KWT",
+    "year": 2024,
+    "gdp_growth": -2.7,
+    "gdp_nominal": 161.822,
+    "gdp_per_capita_nominal": 32289.977,
+    "gdp_ppp": 249.255,
+    "gdp_per_capita_ppp": 49736.258,
+    "gdp_ppp_share": 0.128
+  },
+  {
+    "country": "LAO",
+    "year": 2024,
+    "gdp_growth": 4.1,
+    "gdp_nominal": 14.949,
+    "gdp_per_capita_nominal": 1945.131,
+    "gdp_ppp": 74.76,
+    "gdp_per_capita_ppp": 9727.288,
+    "gdp_ppp_share": 0.038
+  },
+  {
+    "country": "LBR",
+    "year": 2024,
+    "gdp_growth": 5.1,
+    "gdp_nominal": 4.756,
+    "gdp_per_capita_nominal": 855.186,
+    "gdp_ppp": 10.579,
+    "gdp_per_capita_ppp": 1902.323,
+    "gdp_ppp_share": 0.005
+  },
+  {
+    "country": "LBY",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 44.812,
+    "gdp_per_capita_nominal": 6482.099,
+    "gdp_ppp": 106.123,
+    "gdp_per_capita_ppp": 15350.964,
+    "gdp_ppp_share": 0.055
+  },
+  {
+    "country": "LCA",
+    "year": 2024,
+    "gdp_growth": 3.9,
+    "gdp_nominal": 2.569,
+    "gdp_per_capita_nominal": 14034.389,
+    "gdp_ppp": 4.952,
+    "gdp_per_capita_ppp": 27051.657,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "LSO",
+    "year": 2024,
+    "gdp_growth": 2.8,
+    "gdp_nominal": 2.297,
+    "gdp_per_capita_nominal": 1061.813,
+    "gdp_ppp": 7.055,
+    "gdp_per_capita_ppp": 3260.421,
+    "gdp_ppp_share": 0.004
+  },
+  {
+    "country": "LTU",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 82.789,
+    "gdp_per_capita_nominal": 28712.702,
+    "gdp_ppp": 154.615,
+    "gdp_per_capita_ppp": 53623.635,
+    "gdp_ppp_share": 0.079
+  },
+  {
+    "country": "LUX",
+    "year": 2024,
+    "gdp_growth": 1.3,
+    "gdp_nominal": 91.21,
+    "gdp_per_capita_nominal": 135321.424,
+    "gdp_ppp": 101.876,
+    "gdp_per_capita_ppp": 151145.794,
+    "gdp_ppp_share": 0.052
+  },
+  {
+    "country": "LVA",
+    "year": 2024,
+    "gdp_growth": 1.2,
+    "gdp_nominal": 45.521,
+    "gdp_per_capita_nominal": 24222.809,
+    "gdp_ppp": 81.798,
+    "gdp_per_capita_ppp": 43526.926,
+    "gdp_ppp_share": 0.042
+  },
+  {
+    "country": "MAC",
+    "year": 2024,
+    "gdp_growth": 10.6,
+    "gdp_nominal": 53.447,
+    "gdp_per_capita_nominal": 77186.16,
+    "gdp_ppp": 90.306,
+    "gdp_per_capita_ppp": 130416.65,
+    "gdp_ppp_share": 0.046
+  },
+  {
+    "country": "MAE",
+    "year": 2024,
+    "gdp_growth": 1.7,
+    "gdp_nominal": 49300.856,
+    "gdp_per_capita_nominal": 63191.742,
+    "gdp_ppp": 56578.926,
+    "gdp_per_capita_ppp": 72520.464,
+    "gdp_ppp_share": 29.079
+  },
+  {
+    "country": "MAR",
+    "year": 2024,
+    "gdp_growth": 2.8,
+    "gdp_nominal": 157.087,
+    "gdp_per_capita_nominal": 4203.553,
+    "gdp_ppp": 396.685,
+    "gdp_per_capita_ppp": 10615.06,
+    "gdp_ppp_share": 0.204
+  },
+  {
+    "country": "MDA",
+    "year": 2024,
+    "gdp_growth": 2.6,
+    "gdp_nominal": 18.062,
+    "gdp_per_capita_nominal": 7368.494,
+    "gdp_ppp": 45.407,
+    "gdp_per_capita_ppp": 18524.015,
+    "gdp_ppp_share": 0.023
+  },
+  {
+    "country": "MDG",
+    "year": 2024,
+    "gdp_growth": 4.5,
+    "gdp_nominal": 17.212,
+    "gdp_per_capita_nominal": 562.585,
+    "gdp_ppp": 60.877,
+    "gdp_per_capita_ppp": 1989.82,
+    "gdp_ppp_share": 0.031
+  },
+  {
+    "country": "MDV",
+    "year": 2024,
+    "gdp_growth": 4.7,
+    "gdp_nominal": 6.984,
+    "gdp_per_capita_nominal": 17286.827,
+    "gdp_ppp": 13.867,
+    "gdp_per_capita_ppp": 34322.076,
+    "gdp_ppp_share": 0.007
+  },
+  {
+    "country": "MECA",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 4980.028,
+    "gdp_per_capita_nominal": 5768.82,
+    "gdp_ppp": 14033.577,
+    "gdp_per_capita_ppp": 16256.371,
+    "gdp_ppp_share": 7.213
+  },
+  {
+    "country": "MEQ",
+    "year": 2024,
+    "gdp_growth": 1.9,
+    "gdp_nominal": 3529.223,
+    "gdp_per_capita_nominal": 13696.165,
+    "gdp_ppp": 7080.426,
+    "gdp_per_capita_ppp": 27477.635,
+    "gdp_ppp_share": 3.639
+  },
+  {
+    "country": "MEX",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 1848.125,
+    "gdp_per_capita_nominal": 13971.898,
+    "gdp_ppp": 3303.067,
+    "gdp_per_capita_ppp": 24971.323,
+    "gdp_ppp_share": 1.698
+  },
+  {
+    "country": "MHL",
+    "year": 2024,
+    "gdp_growth": 5,
+    "gdp_nominal": 0.279,
+    "gdp_per_capita_nominal": 6850.231,
+    "gdp_ppp": 0.272,
+    "gdp_per_capita_ppp": 6687.864,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "MKD",
+    "year": 2024,
+    "gdp_growth": 2.2,
+    "gdp_nominal": 15.861,
+    "gdp_per_capita_nominal": 8658.893,
+    "gdp_ppp": 49.295,
+    "gdp_per_capita_ppp": 26911.822,
+    "gdp_ppp_share": 0.025
+  },
+  {
+    "country": "MLI",
+    "year": 2024,
+    "gdp_growth": 3.8,
+    "gdp_nominal": 21.653,
+    "gdp_per_capita_nominal": 898.46,
+    "gdp_ppp": 68.526,
+    "gdp_per_capita_ppp": 2843.339,
+    "gdp_ppp_share": 0.035
+  },
+  {
+    "country": "MLT",
+    "year": 2024,
+    "gdp_growth": 5,
+    "gdp_nominal": 24.397,
+    "gdp_per_capita_nominal": 44140.016,
+    "gdp_ppp": 40.316,
+    "gdp_per_capita_ppp": 72941.905,
+    "gdp_ppp_share": 0.021
+  },
+  {
+    "country": "MMR",
+    "year": 2024,
+    "gdp_growth": 1,
+    "gdp_nominal": 64.284,
+    "gdp_per_capita_nominal": 1179.396,
+    "gdp_ppp": 283.747,
+    "gdp_per_capita_ppp": 5205.768,
+    "gdp_ppp_share": 0.146
+  },
+  {
+    "country": "MNE",
+    "year": 2024,
+    "gdp_growth": 3.7,
+    "gdp_nominal": 8.11,
+    "gdp_per_capita_nominal": 12802.124,
+    "gdp_ppp": 20.181,
+    "gdp_per_capita_ppp": 31858.01,
+    "gdp_ppp_share": 0.01
+  },
+  {
+    "country": "MNG",
+    "year": 2024,
+    "gdp_growth": 5.5,
+    "gdp_nominal": 23.669,
+    "gdp_per_capita_nominal": 6665.645,
+    "gdp_ppp": 67.691,
+    "gdp_per_capita_ppp": 19063.366,
+    "gdp_ppp_share": 0.035
+  },
+  {
+    "country": "MOZ",
+    "year": 2024,
+    "gdp_growth": 4.3,
+    "gdp_nominal": 22.495,
+    "gdp_per_capita_nominal": 645.329,
+    "gdp_ppp": 60.29,
+    "gdp_per_capita_ppp": 1729.561,
+    "gdp_ppp_share": 0.031
+  },
+  {
+    "country": "MRT",
+    "year": 2024,
+    "gdp_growth": 4.4,
+    "gdp_nominal": 10.761,
+    "gdp_per_capita_nominal": 2376.285,
+    "gdp_ppp": 37.285,
+    "gdp_per_capita_ppp": 8233.316,
+    "gdp_ppp_share": 0.019
+  },
+  {
+    "country": "MUS",
+    "year": 2024,
+    "gdp_growth": 6.1,
+    "gdp_nominal": 15.89,
+    "gdp_per_capita_nominal": 12601.486,
+    "gdp_ppp": 40.429,
+    "gdp_per_capita_ppp": 32062.706,
+    "gdp_ppp_share": 0.021
+  },
+  {
+    "country": "MWI",
+    "year": 2024,
+    "gdp_growth": 1.8,
+    "gdp_nominal": 10.844,
+    "gdp_per_capita_nominal": 463.733,
+    "gdp_ppp": 40.074,
+    "gdp_per_capita_ppp": 1713.774,
+    "gdp_ppp_share": 0.021
+  },
+  {
+    "country": "MYS",
+    "year": 2024,
+    "gdp_growth": 4.8,
+    "gdp_nominal": 439.748,
+    "gdp_per_capita_nominal": 13142.345,
+    "gdp_ppp": 1372.61,
+    "gdp_per_capita_ppp": 41021.961,
+    "gdp_ppp_share": 0.705
+  },
+  {
+    "country": "NAM",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 13.185,
+    "gdp_per_capita_nominal": 4409.957,
+    "gdp_ppp": 35.071,
+    "gdp_per_capita_ppp": 11730.163,
+    "gdp_ppp_share": 0.018
+  },
+  {
+    "country": "NAQ",
+    "year": 2024,
+    "gdp_growth": 2.9,
+    "gdp_nominal": 894.711,
+    "gdp_per_capita_nominal": 4249.424,
+    "gdp_ppp": 3737.639,
+    "gdp_per_capita_ppp": 17751.883,
+    "gdp_ppp_share": 1.921
+  },
+  {
+    "country": "NER",
+    "year": 2024,
+    "gdp_growth": 9.9,
+    "gdp_nominal": 19.599,
+    "gdp_per_capita_nominal": 697.974,
+    "gdp_ppp": 55.547,
+    "gdp_per_capita_ppp": 1978.174,
+    "gdp_ppp_share": 0.029
+  },
+  {
+    "country": "NGA",
+    "year": 2024,
+    "gdp_growth": 2.9,
+    "gdp_nominal": 199.721,
+    "gdp_per_capita_nominal": 877.073,
+    "gdp_ppp": 1489.832,
+    "gdp_per_capita_ppp": 6542.585,
+    "gdp_ppp_share": 0.766
+  },
+  {
+    "country": "NIC",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 19.412,
+    "gdp_per_capita_nominal": 2877.647,
+    "gdp_ppp": 60.374,
+    "gdp_per_capita_ppp": 8949.812,
+    "gdp_ppp_share": 0.031
+  },
+  {
+    "country": "NLD",
+    "year": 2024,
+    "gdp_growth": 0.6,
+    "gdp_nominal": 1218.401,
+    "gdp_per_capita_nominal": 67984.285,
+    "gdp_ppp": 1460.53,
+    "gdp_per_capita_ppp": 81494.628,
+    "gdp_ppp_share": 0.751
+  },
+  {
+    "country": "NMQ",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 33351.671,
+    "gdp_per_capita_nominal": 64961.044,
+    "gdp_ppp": 35211.263,
+    "gdp_per_capita_ppp": 68583.083,
+    "gdp_ppp_share": 18.097
+  },
+  {
+    "country": "NOR",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 503.752,
+    "gdp_per_capita_nominal": 90433.666,
+    "gdp_ppp": 576.236,
+    "gdp_per_capita_ppp": 103446.04,
+    "gdp_ppp_share": 0.296
+  },
+  {
+    "country": "NPL",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 43.673,
+    "gdp_per_capita_nominal": 1381.053,
+    "gdp_ppp": 169.122,
+    "gdp_per_capita_ppp": 5348.118,
+    "gdp_ppp_share": 0.087
+  },
+  {
+    "country": "NRU",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 0.16,
+    "gdp_per_capita_nominal": 12285.096,
+    "gdp_ppp": 0.141,
+    "gdp_per_capita_ppp": 10829.327,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "NZL",
+    "year": 2024,
+    "gdp_growth": 0,
+    "gdp_nominal": 252.236,
+    "gdp_per_capita_nominal": 47072.425,
+    "gdp_ppp": 283.908,
+    "gdp_per_capita_ppp": 52983.046,
+    "gdp_ppp_share": 0.146
+  },
+  {
+    "country": "OAE",
+    "year": 2024,
+    "gdp_growth": 2.1,
+    "gdp_nominal": 9183.356,
+    "gdp_per_capita_nominal": 51720.64,
+    "gdp_ppp": 12869.301,
+    "gdp_per_capita_ppp": 72479.87,
+    "gdp_ppp_share": 6.614
+  },
+  {
+    "country": "OEMDC",
+    "year": 2024,
+    "gdp_growth": 4.2,
+    "gdp_nominal": 45383.206,
+    "gdp_per_capita_nominal": 6651.611,
+    "gdp_ppp": 116413.061,
+    "gdp_per_capita_ppp": 17062.135,
+    "gdp_ppp_share": 59.831
+  },
+  {
+    "country": "OMN",
+    "year": 2024,
+    "gdp_growth": 1,
+    "gdp_nominal": 109.993,
+    "gdp_per_capita_nominal": 20631.44,
+    "gdp_ppp": 222.058,
+    "gdp_per_capita_ppp": 41651.669,
+    "gdp_ppp_share": 0.114
+  },
+  {
+    "country": "PAK",
+    "year": 2024,
+    "gdp_growth": 2.4,
+    "gdp_nominal": 374.595,
+    "gdp_per_capita_nominal": 1587.604,
+    "gdp_ppp": 1584.474,
+    "gdp_per_capita_ppp": 6715.296,
+    "gdp_ppp_share": 0.814
+  },
+  {
+    "country": "PAN",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 87.347,
+    "gdp_per_capita_nominal": 19369.476,
+    "gdp_ppp": 186.209,
+    "gdp_per_capita_ppp": 41292.258,
+    "gdp_ppp_share": 0.096
+  },
+  {
+    "country": "PER",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 283.309,
+    "gdp_per_capita_nominal": 8315.915,
+    "gdp_ppp": 605.57,
+    "gdp_per_capita_ppp": 17775.18,
+    "gdp_ppp_share": 0.311
+  },
+  {
+    "country": "PHL",
+    "year": 2024,
+    "gdp_growth": 5.8,
+    "gdp_nominal": 470.062,
+    "gdp_per_capita_nominal": 4153.593,
+    "gdp_ppp": 1367.043,
+    "gdp_per_capita_ppp": 12079.571,
+    "gdp_ppp_share": 0.703
+  },
+  {
+    "country": "PIQ",
+    "year": 2024,
+    "gdp_growth": 4.2,
+    "gdp_nominal": 42.494,
+    "gdp_per_capita_nominal": 2827.499,
+    "gdp_ppp": 64.952,
+    "gdp_per_capita_ppp": 4321.816,
+    "gdp_ppp_share": 0.033
+  },
+  {
+    "country": "PLW",
+    "year": 2024,
+    "gdp_growth": 8.1,
+    "gdp_nominal": 0.316,
+    "gdp_per_capita_nominal": 17977.678,
+    "gdp_ppp": 0.303,
+    "gdp_per_capita_ppp": 17207.326,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "PNG",
+    "year": 2024,
+    "gdp_growth": 4.6,
+    "gdp_nominal": 31.896,
+    "gdp_per_capita_nominal": 2543.653,
+    "gdp_ppp": 44.419,
+    "gdp_per_capita_ppp": 3542.298,
+    "gdp_ppp_share": 0.023
+  },
+  {
+    "country": "POL",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 862.908,
+    "gdp_per_capita_nominal": 23563.217,
+    "gdp_ppp": 1890.698,
+    "gdp_per_capita_ppp": 51628.831,
+    "gdp_ppp_share": 0.972
+  },
+  {
+    "country": "PRI",
+    "year": 2024,
+    "gdp_growth": 1,
+    "gdp_nominal": 120.971,
+    "gdp_per_capita_nominal": 37925.934,
+    "gdp_ppp": 158.188,
+    "gdp_per_capita_ppp": 49594.095,
+    "gdp_ppp_share": 0.081
+  },
+  {
+    "country": "PRT",
+    "year": 2024,
+    "gdp_growth": 1.9,
+    "gdp_nominal": 303.032,
+    "gdp_per_capita_nominal": 29341.17,
+    "gdp_ppp": 508.508,
+    "gdp_per_capita_ppp": 49236.504,
+    "gdp_ppp_share": 0.261
+  },
+  {
+    "country": "PRY",
+    "year": 2024,
+    "gdp_growth": 3.8,
+    "gdp_nominal": 44.937,
+    "gdp_per_capita_nominal": 5869.329,
+    "gdp_ppp": 127.416,
+    "gdp_per_capita_ppp": 16642.23,
+    "gdp_ppp_share": 0.065
+  },
+  {
+    "country": "QAT",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 221.406,
+    "gdp_per_capita_nominal": 71568.394,
+    "gdp_ppp": 355.999,
+    "gdp_per_capita_ppp": 115074.541,
+    "gdp_ppp_share": 0.183
+  },
+  {
+    "country": "ROU",
+    "year": 2024,
+    "gdp_growth": 1.9,
+    "gdp_nominal": 380.561,
+    "gdp_per_capita_nominal": 20088.859,
+    "gdp_ppp": 894.222,
+    "gdp_per_capita_ppp": 47203.733,
+    "gdp_ppp_share": 0.46
+  },
+  {
+    "country": "RUS",
+    "year": 2024,
+    "gdp_growth": 3.6,
+    "gdp_nominal": 2184.316,
+    "gdp_per_capita_nominal": 14952.904,
+    "gdp_ppp": 6909.381,
+    "gdp_per_capita_ppp": 47298.706,
+    "gdp_ppp_share": 3.551
+  },
+  {
+    "country": "RWA",
+    "year": 2024,
+    "gdp_growth": 7,
+    "gdp_nominal": 13.663,
+    "gdp_per_capita_nominal": 985.99,
+    "gdp_ppp": 51.918,
+    "gdp_per_capita_ppp": 3746.809,
+    "gdp_ppp_share": 0.027
+  },
+  {
+    "country": "SAQ",
+    "year": 2024,
+    "gdp_growth": 6.4,
+    "gdp_nominal": 4856.741,
+    "gdp_per_capita_nominal": 2548.972,
+    "gdp_ppp": 19825.811,
+    "gdp_per_capita_ppp": 10405.216,
+    "gdp_ppp_share": 10.19
+  },
+  {
+    "country": "SAU",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 1100.706,
+    "gdp_per_capita_nominal": 32881.339,
+    "gdp_ppp": 2112.88,
+    "gdp_per_capita_ppp": 63117.954,
+    "gdp_ppp_share": 1.086
+  },
+  {
+    "country": "SDN",
+    "year": 2024,
+    "gdp_growth": -20.3,
+    "gdp_nominal": 29.793,
+    "gdp_per_capita_nominal": 606.289,
+    "gdp_ppp": 123.481,
+    "gdp_per_capita_ppp": 2512.814,
+    "gdp_ppp_share": 0.063
+  },
+  {
+    "country": "SEN",
+    "year": 2024,
+    "gdp_growth": 6,
+    "gdp_nominal": 33.685,
+    "gdp_per_capita_nominal": 1805.139,
+    "gdp_ppp": 94.351,
+    "gdp_per_capita_ppp": 5056.15,
+    "gdp_ppp_share": 0.048
+  },
+  {
+    "country": "SEQ",
+    "year": 2024,
+    "gdp_growth": 4.6,
+    "gdp_nominal": 3984.595,
+    "gdp_per_capita_nominal": 5805.038,
+    "gdp_ppp": 12227.039,
+    "gdp_per_capita_ppp": 17813.209,
+    "gdp_ppp_share": 6.284
+  },
+  {
+    "country": "SGP",
+    "year": 2024,
+    "gdp_growth": 2.6,
+    "gdp_nominal": 530.708,
+    "gdp_per_capita_nominal": 89369.715,
+    "gdp_ppp": 879.978,
+    "gdp_per_capita_ppp": 148185.776,
+    "gdp_ppp_share": 0.452
+  },
+  {
+    "country": "SLB",
+    "year": 2024,
+    "gdp_growth": 2.3,
+    "gdp_nominal": 1.73,
+    "gdp_per_capita_nominal": 2208.925,
+    "gdp_ppp": 2.057,
+    "gdp_per_capita_ppp": 2626.655,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "SLE",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 7.411,
+    "gdp_per_capita_nominal": 856.315,
+    "gdp_ppp": 30.337,
+    "gdp_per_capita_ppp": 3505.131,
+    "gdp_ppp_share": 0.016
+  },
+  {
+    "country": "SLV",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 35.848,
+    "gdp_per_capita_nominal": 5606.972,
+    "gdp_ppp": 84.22,
+    "gdp_per_capita_ppp": 13172.75,
+    "gdp_ppp_share": 0.043
+  },
+  {
+    "country": "SMQ",
+    "year": 2024,
+    "gdp_growth": 1.8,
+    "gdp_nominal": 4225.38,
+    "gdp_per_capita_nominal": 9724.556,
+    "gdp_ppp": 9374.285,
+    "gdp_per_capita_ppp": 21574.572,
+    "gdp_ppp_share": 4.818
+  },
+  {
+    "country": "SMR",
+    "year": 2024,
+    "gdp_growth": 0.7,
+    "gdp_nominal": 2.049,
+    "gdp_per_capita_nominal": 59840.628,
+    "gdp_ppp": 2.749,
+    "gdp_per_capita_ppp": 80304.609,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "SOM",
+    "year": 2024,
+    "gdp_growth": 4,
+    "gdp_nominal": 12.729,
+    "gdp_per_capita_nominal": 771.447,
+    "gdp_ppp": 30.429,
+    "gdp_per_capita_ppp": 1844.086,
+    "gdp_ppp_share": 0.016
+  },
+  {
+    "country": "SRB",
+    "year": 2024,
+    "gdp_growth": 3.9,
+    "gdp_nominal": 82.55,
+    "gdp_per_capita_nominal": 12513.826,
+    "gdp_ppp": 191.561,
+    "gdp_per_capita_ppp": 29038.902,
+    "gdp_ppp_share": 0.098
+  },
+  {
+    "country": "SSA",
+    "year": 2024,
+    "gdp_growth": 3.6,
+    "gdp_nominal": 1840.998,
+    "gdp_per_capita_nominal": 1576.76,
+    "gdp_ppp": 6247.651,
+    "gdp_per_capita_ppp": 5350.927,
+    "gdp_ppp_share": 3.211
+  },
+  {
+    "country": "SSD",
+    "year": 2024,
+    "gdp_growth": -26.4,
+    "gdp_nominal": 5.268,
+    "gdp_per_capita_nominal": 340.986,
+    "gdp_ppp": 11.786,
+    "gdp_per_capita_ppp": 762.925,
+    "gdp_ppp_share": 0.006
+  },
+  {
+    "country": "SSQ",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 1885.886,
+    "gdp_per_capita_nominal": 1542.906,
+    "gdp_ppp": 6417.388,
+    "gdp_per_capita_ppp": 5250.278,
+    "gdp_ppp_share": 3.298
+  },
+  {
+    "country": "STP",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 0.812,
+    "gdp_per_capita_nominal": 3424.836,
+    "gdp_ppp": 1.471,
+    "gdp_per_capita_ppp": 6205.203,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "SUR",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 4.918,
+    "gdp_per_capita_nominal": 7599.512,
+    "gdp_ppp": 13.85,
+    "gdp_per_capita_ppp": 21403.829,
+    "gdp_ppp_share": 0.007
+  },
+  {
+    "country": "SVK",
+    "year": 2024,
+    "gdp_growth": 2.2,
+    "gdp_nominal": 142.617,
+    "gdp_per_capita_nominal": 26290.363,
+    "gdp_ppp": 247.54,
+    "gdp_per_capita_ppp": 45632.207,
+    "gdp_ppp_share": 0.127
+  },
+  {
+    "country": "SVN",
+    "year": 2024,
+    "gdp_growth": 1.5,
+    "gdp_nominal": 73.198,
+    "gdp_per_capita_nominal": 34544.168,
+    "gdp_ppp": 117.993,
+    "gdp_per_capita_ppp": 55683.968,
+    "gdp_ppp_share": 0.061
+  },
+  {
+    "country": "SWE",
+    "year": 2024,
+    "gdp_growth": 0.9,
+    "gdp_nominal": 609.039,
+    "gdp_per_capita_nominal": 57212.541,
+    "gdp_ppp": 763.589,
+    "gdp_per_capita_ppp": 71730.789,
+    "gdp_ppp_share": 0.392
+  },
+  {
+    "country": "SWZ",
+    "year": 2024,
+    "gdp_growth": 4.6,
+    "gdp_nominal": 5.145,
+    "gdp_per_capita_nominal": 4375.286,
+    "gdp_ppp": 15.244,
+    "gdp_per_capita_ppp": 12963.227,
+    "gdp_ppp_share": 0.008
+  },
+  {
+    "country": "SYC",
+    "year": 2024,
+    "gdp_growth": 3.1,
+    "gdp_nominal": 2.144,
+    "gdp_per_capita_nominal": 21289.801,
+    "gdp_ppp": 4.136,
+    "gdp_per_capita_ppp": 41077.691,
+    "gdp_ppp_share": 0.002
+  },
+  {
+    "country": "TCD",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 18.67,
+    "gdp_per_capita_nominal": 1012.651,
+    "gdp_ppp": 52.22,
+    "gdp_per_capita_ppp": 2832.345,
+    "gdp_ppp_share": 0.027
+  },
+  {
+    "country": "TGO",
+    "year": 2024,
+    "gdp_growth": 5.3,
+    "gdp_nominal": 9.766,
+    "gdp_per_capita_nominal": 1051.216,
+    "gdp_ppp": 30.563,
+    "gdp_per_capita_ppp": 3289.861,
+    "gdp_ppp_share": 0.016
+  },
+  {
+    "country": "THA",
+    "year": 2024,
+    "gdp_growth": 2.8,
+    "gdp_nominal": 528.919,
+    "gdp_per_capita_nominal": 7527.382,
+    "gdp_ppp": 1771.532,
+    "gdp_per_capita_ppp": 25211.769,
+    "gdp_ppp_share": 0.91
+  },
+  {
+    "country": "TJK",
+    "year": 2024,
+    "gdp_growth": 6.8,
+    "gdp_nominal": 12.995,
+    "gdp_per_capita_nominal": 1275.5,
+    "gdp_ppp": 56.367,
+    "gdp_per_capita_ppp": 5532.774,
+    "gdp_ppp_share": 0.029
+  },
+  {
+    "country": "TKM",
+    "year": 2024,
+    "gdp_growth": 2.3,
+    "gdp_nominal": 83.883,
+    "gdp_per_capita_nominal": 12713.274,
+    "gdp_ppp": 177.365,
+    "gdp_per_capita_ppp": 26881.366,
+    "gdp_ppp_share": 0.091
+  },
+  {
+    "country": "TLS",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 1.992,
+    "gdp_per_capita_nominal": 1453.881,
+    "gdp_ppp": 6.435,
+    "gdp_per_capita_ppp": 4696.56,
+    "gdp_ppp_share": 0.003
+  },
+  {
+    "country": "TON",
+    "year": 2024,
+    "gdp_growth": 1.8,
+    "gdp_nominal": 0.545,
+    "gdp_per_capita_nominal": 5483.29,
+    "gdp_ppp": 0.777,
+    "gdp_per_capita_ppp": 7810.975,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "TTO",
+    "year": 2024,
+    "gdp_growth": 1.6,
+    "gdp_nominal": 28.139,
+    "gdp_per_capita_nominal": 19703.041,
+    "gdp_ppp": 49.967,
+    "gdp_per_capita_ppp": 34987.234,
+    "gdp_ppp_share": 0.026
+  },
+  {
+    "country": "TUN",
+    "year": 2024,
+    "gdp_growth": 1.6,
+    "gdp_nominal": 52.636,
+    "gdp_per_capita_nominal": 4266.985,
+    "gdp_ppp": 176.873,
+    "gdp_per_capita_ppp": 14338.485,
+    "gdp_ppp_share": 0.091
+  },
+  {
+    "country": "TUR",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 1344.318,
+    "gdp_per_capita_nominal": 15665.943,
+    "gdp_ppp": 3456.771,
+    "gdp_per_capita_ppp": 40283.307,
+    "gdp_ppp_share": 1.777
+  },
+  {
+    "country": "TUV",
+    "year": 2024,
+    "gdp_growth": 3.5,
+    "gdp_nominal": 0.073,
+    "gdp_per_capita_nominal": 7190.27,
+    "gdp_ppp": 0.066,
+    "gdp_per_capita_ppp": 6479.754,
+    "gdp_ppp_share": 0
+  },
+  {
+    "country": "TWN",
+    "year": 2024,
+    "gdp_growth": 3.7,
+    "gdp_nominal": 775.017,
+    "gdp_per_capita_nominal": 33233.799,
+    "gdp_ppp": 1843.016,
+    "gdp_per_capita_ppp": 79031.076,
+    "gdp_ppp_share": 0.947
+  },
+  {
+    "country": "TZA",
+    "year": 2024,
+    "gdp_growth": 5.4,
+    "gdp_nominal": 79.867,
+    "gdp_per_capita_nominal": 1224.368,
+    "gdp_ppp": 269.672,
+    "gdp_per_capita_ppp": 4134.116,
+    "gdp_ppp_share": 0.139
+  },
+  {
+    "country": "UGA",
+    "year": 2024,
+    "gdp_growth": 5.9,
+    "gdp_nominal": 55.587,
+    "gdp_per_capita_nominal": 1186.529,
+    "gdp_ppp": 170.611,
+    "gdp_per_capita_ppp": 3641.785,
+    "gdp_ppp_share": 0.088
+  },
+  {
+    "country": "UKR",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 184.099,
+    "gdp_per_capita_nominal": 5504.886,
+    "gdp_ppp": 655.583,
+    "gdp_per_capita_ppp": 19603.124,
+    "gdp_ppp_share": 0.337
+  },
+  {
+    "country": "URY",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 82.482,
+    "gdp_per_capita_nominal": 23053.261,
+    "gdp_ppp": 123.223,
+    "gdp_per_capita_ppp": 34440.195,
+    "gdp_ppp_share": 0.063
+  },
+  {
+    "country": "USA",
+    "year": 2024,
+    "gdp_growth": 2.8,
+    "gdp_nominal": 29167.779,
+    "gdp_per_capita_nominal": 86601.28,
+    "gdp_ppp": 29167.779,
+    "gdp_per_capita_ppp": 86601.28,
+    "gdp_ppp_share": 14.991
+  },
+  {
+    "country": "UVK",
+    "year": 2024,
+    "gdp_growth": 3.8,
+    "gdp_nominal": 11.172,
+    "gdp_per_capita_nominal": 6333.918,
+    "gdp_ppp": 29.723,
+    "gdp_per_capita_ppp": 16851.898,
+    "gdp_ppp_share": 0.015
+  },
+  {
+    "country": "UZB",
+    "year": 2024,
+    "gdp_growth": 5.6,
+    "gdp_nominal": 112.653,
+    "gdp_per_capita_nominal": 3050.82,
+    "gdp_ppp": 428.204,
+    "gdp_per_capita_ppp": 11596.421,
+    "gdp_ppp_share": 0.22
+  },
+  {
+    "country": "VCT",
+    "year": 2024,
+    "gdp_growth": 4.5,
+    "gdp_nominal": 1.173,
+    "gdp_per_capita_nominal": 10557.854,
+    "gdp_ppp": 2.158,
+    "gdp_per_capita_ppp": 19425.032,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "VEN",
+    "year": 2024,
+    "gdp_growth": 3,
+    "gdp_nominal": 106.327,
+    "gdp_per_capita_nominal": 4018.595,
+    "gdp_ppp": 222.356,
+    "gdp_per_capita_ppp": 8403.841,
+    "gdp_ppp_share": 0.114
+  },
+  {
+    "country": "VNM",
+    "year": 2024,
+    "gdp_growth": 6.1,
+    "gdp_nominal": 468.485,
+    "gdp_per_capita_nominal": 4649.054,
+    "gdp_ppp": 1631.796,
+    "gdp_per_capita_ppp": 16193.268,
+    "gdp_ppp_share": 0.839
+  },
+  {
+    "country": "VUT",
+    "year": 2024,
+    "gdp_growth": 0.9,
+    "gdp_nominal": 1.169,
+    "gdp_per_capita_nominal": 3387.16,
+    "gdp_ppp": 0.994,
+    "gdp_per_capita_ppp": 2878.134,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "WE",
+    "year": 2024,
+    "gdp_growth": 2.1,
+    "gdp_nominal": 6728.466,
+    "gdp_per_capita_nominal": 10368.57,
+    "gdp_ppp": 14071.686,
+    "gdp_per_capita_ppp": 21684.477,
+    "gdp_ppp_share": 7.232
+  },
+  {
+    "country": "WEOWORLD",
+    "year": 2024,
+    "gdp_growth": 3.2,
+    "gdp_nominal": 110064.915,
+    "gdp_per_capita_nominal": 13898.443,
+    "gdp_ppp": 194568.527
+  },
+  {
+    "country": "WEQ",
+    "year": 2024,
+    "gdp_growth": 0.9,
+    "gdp_nominal": 22075.096,
+    "gdp_per_capita_nominal": 51216.451,
+    "gdp_ppp": 28835.886,
+    "gdp_per_capita_ppp": 66902.166,
+    "gdp_ppp_share": 14.82
+  },
+  {
+    "country": "WHQ",
+    "year": 2024,
+    "gdp_growth": 2.5,
+    "gdp_nominal": 38232.012,
+    "gdp_per_capita_nominal": 37116.119,
+    "gdp_ppp": 45979.882,
+    "gdp_per_capita_ppp": 44637.848,
+    "gdp_ppp_share": 23.632
+  },
+  {
+    "country": "WSM",
+    "year": 2024,
+    "gdp_growth": 9.7,
+    "gdp_nominal": 1.068,
+    "gdp_per_capita_nominal": 5048.032,
+    "gdp_ppp": 1.48,
+    "gdp_per_capita_ppp": 6998.213,
+    "gdp_ppp_share": 0.001
+  },
+  {
+    "country": "YEM",
+    "year": 2024,
+    "gdp_growth": -1,
+    "gdp_nominal": 16.192,
+    "gdp_per_capita_nominal": 464.893,
+    "gdp_ppp": 69.519,
+    "gdp_per_capita_ppp": 1996.036,
+    "gdp_ppp_share": 0.036
+  },
+  {
+    "country": "ZAF",
+    "year": 2024,
+    "gdp_growth": 1.1,
+    "gdp_nominal": 403.045,
+    "gdp_per_capita_nominal": 6377.068,
+    "gdp_ppp": 993.745,
+    "gdp_per_capita_ppp": 15723.251,
+    "gdp_ppp_share": 0.511
+  },
+  {
+    "country": "ZMB",
+    "year": 2024,
+    "gdp_growth": 2.3,
+    "gdp_nominal": 25.913,
+    "gdp_per_capita_nominal": 1226.095,
+    "gdp_ppp": 88.56,
+    "gdp_per_capita_ppp": 4190.267,
+    "gdp_ppp_share": 0.046
+  },
+  {
+    "country": "ZWE",
+    "year": 2024,
+    "gdp_growth": 2,
+    "gdp_nominal": 35.919,
+    "gdp_per_capita_nominal": 2113.811,
+    "gdp_ppp": 86.162,
+    "gdp_per_capita_ppp": 5070.606,
+    "gdp_ppp_share": 0.044
+  }
+]

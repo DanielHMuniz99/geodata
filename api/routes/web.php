@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\ApiCensusController;
 use App\Http\Controllers\Api\ApiLocationsController;
+use App\Http\Controllers\Api\ApiCountryGdpController;
 
 Route::prefix('census')->group(function () {
     Route::get('names/{name}', [ApiCensusController::class, 'getNames']);
@@ -15,4 +16,9 @@ Route::prefix('locations')->group(function () {
     Route::get('/mesoregions/{mesoregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMesoregion']);
     Route::get('/microregions/{microregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMicroregion']);
     Route::get('/municipalities/{municipality?}/districts', [ApiLocationsController::class, 'getDistrictsByMunicipality']);
+});
+
+Route::prefix('gdp')->group(function () {
+    Route::get('/', [ApiCountryGdpController::class, 'index']);
+    Route::get('/{country_code}/{year}', [ApiCountryGdpController::class, 'show']);
 });

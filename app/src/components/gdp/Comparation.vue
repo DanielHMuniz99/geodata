@@ -2,7 +2,7 @@
     <v-container>
       <v-row justify="center">
         <v-col cols="12" md="12">
-          <v-card-title class="text-h6">Quality of Life Comparison</v-card-title>
+          <v-card-title class="text-h6">{{ $t('quality_life_comparison') }}</v-card-title>
             <v-card-text>
               <v-form>
                 <v-select
@@ -10,7 +10,7 @@
                   :items="countries"
                   item-title="country"
                   item-value="code"
-                  label="Country of origin"
+                  :label="$t('country_origin')"
                   return-object
                 >
                   <template v-slot:selection="{ item }">
@@ -26,7 +26,6 @@
                           <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
                         </v-avatar>
                       </template>
-                      <v-list-item-title>{{ item.raw.country }}</v-list-item-title>
                     </v-list-item>
                   </template>
                 </v-select>
@@ -36,7 +35,7 @@
                   :items="countries"
                   item-title="country"
                   item-value="code"
-                  label="Country of Comparison"
+                  :label="$t('country_comparison')"
                   return-object
                 >
                   <template v-slot:selection="{ item }">
@@ -52,7 +51,6 @@
                           <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
                         </v-avatar>
                       </template>
-                      <v-list-item-title>{{ item.raw.country }}</v-list-item-title>
                     </v-list-item>
                   </template>
                 </v-select>
@@ -60,24 +58,23 @@
                 <v-select
                   v-model="currency"
                   :items="currencies"
-                  label="Currency"
+                  :label="$t('currency')"
                   disabled
                 ></v-select>
   
                 <v-text-field
                   v-model="salary"
-                  label="Your Salary (in USD)"
+                  :label="$t('your_salary_in', { currency: 'USD' })"
                   type="number"
                   prefix="$"
                   required
                 ></v-text-field>
 
-                <v-btn @click="compareIncome()" color="primary" block :loading="loading">Compare</v-btn>
+                <v-btn @click="compareIncome()" color="primary" block :loading="loading">{{ $t('compare') }}</v-btn>
               </v-form>
   
               <v-alert v-if="result" class="mt-4" type="info">
-                With a salary of ${{ salary }} in {{ originCountry?.country }},
-                you are richer than <strong>{{ result }}%</strong> of the population of {{ targetCountry?.country }}
+                {{ $t('with_your_salary', { salary: salary, originCountry: originCountry?.country, result: result, targetCountry: targetCountry?.country }) }}
               </v-alert>
   
               <v-alert v-if="error" class="mt-4" type="error">

@@ -10,6 +10,13 @@ const messages = {
     name_cannot_contain_numbers: "The name cannot contain numbers",
     portuguese: "Portuguese",
     english: "English",
+    quality_life_comparison: 'Quality of Life Comparison',
+    country_origin: 'Country of origin',
+    country_comparison: 'Country of comparison',
+    currency: 'Currency',
+    your_salary_in: 'Your monthly salary (in {currency})',
+    compare: "Compare",
+    with_your_salary: "With a salary of ${salary} in {originCountry}, you are richer than {result}% of the population of {targetCountry}",
   },
   pt: {
     search: "Pesquisar",
@@ -20,6 +27,13 @@ const messages = {
     name_cannot_contain_numbers: "O nome não pode conter números",
     portuguese: "Português",
     english: "Inglês",
+    quality_life_comparison: 'Comparação de qualidade de vida',
+    country_origin: 'País de origem',
+    country_comparison: 'País de comparação',
+    currency: 'Moeda',
+    your_salary_in: 'Seu salário mensal (em {currency})',
+    compare: "Compare",
+    with_your_salary: "Com um salário de ${salary} em {originCountry}, você é mais rico que {result}% da população do(a) {targetCountry}",
   }
 };
 

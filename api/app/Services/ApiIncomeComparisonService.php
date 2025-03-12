@@ -2,8 +2,8 @@
 
 namespace App\Services;
 
-use App\Models\Country;
-use App\Models\IncomeDistribution;
+use App\Repositories\CountryRepository;
+use App\Repositories\IncomeDistributionRepository ;
 
 class ApiIncomeComparisonService
 {
@@ -16,6 +16,15 @@ class ApiIncomeComparisonService
         'highest_20' => 100
     ];
 
+    public $countryRepository;
+
+    public $incomeDistributionRepository;
+
+    public function __construct(CountryRepository $countryRepository, IncomeDistributionRepository $incomeDistributionRepository) {
+        $this->countryRepository = $countryRepository;
+        $this->incomeDistributionRepository = $incomeDistributionRepository;
+    }
+
     /**
      * @param string $originCountry
      * @param float $salary
@@ -25,18 +34,14 @@ class ApiIncomeComparisonService
      */
     public function compare(string $originCountry, float $salary, string $targetCountry): int
     {
-        $targetCountryModel = Country::where('code', $targetCountry)->first();
+        $targetCountryModel = $this->countryRepository->findByCode($targetCountry);
+
         if (!$targetCountryModel) {
             return ['error' => 'Comparison country not found'];
         }
 
-        $latestYear = IncomeDistribution::where('country_id', $targetCountryModel->id)
-            ->max('year');
-
-        $incomeData = IncomeDistribution::where('country_id', $targetCountryModel->id)
-            ->where('year', $latestYear)
-            ->get()
-            ->pluck('income_share', 'series');
+        $latestYear = $this->incomeDistributionRepository->getLatestIncomeDistributionByCountry($targetCountryModel->id);
+        $incomeData = $this->incomeDistributionRepository->getIncomeDistributionByCountryAndYear($targetCountryModel->id, $latestYear);
 
         if ($incomeData->isEmpty()) {
             return ['error' => 'Income data not available for target country'];

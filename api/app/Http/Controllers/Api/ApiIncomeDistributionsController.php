@@ -3,16 +3,38 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
+use App\Services\ApiIncomeComparisonService;
+use Illuminate\Http\Request;
+use Illuminate\Http\JsonResponse;
 
 class ApiIncomeDistributionsController extends Controller
 {
-    public function __construct()
-    {
+    protected $incomeComparisonService;
 
+    public function __construct(ApiIncomeComparisonService $incomeComparisonService)
+    {
+        $this->incomeComparisonService = $incomeComparisonService;
     }
 
-    public function index()
+    /**
+     * @param Request $request
+     * 
+     * @return JsonResponse
+     */
+    public function compareIncome(Request $request): JsonResponse
     {
+        $request->validate([
+            'origin_country' => 'required|string|exists:countries,code',
+            'salary' => 'required|numeric|min:0',
+            'target_country' => 'required|string|exists:countries,code',
+        ]);
 
+        $result = $this->incomeComparisonService->compare(
+            $request->input('origin_country'),
+            $request->input('salary'),
+            $request->input('target_country')
+        );
+
+        return response()->json($result);
     }
 }

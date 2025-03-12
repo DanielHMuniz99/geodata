@@ -1,6 +1,5 @@
 <template>
   <aside class="sidebar">
-    <h5 class="text-center">API</h5>
     <v-row>
       <v-col
         cols="12"

@@ -5,7 +5,7 @@ Este é um projeto que reúne dados econômicos e demográficos globais para an�
 ## Estrutura do Projeto
 
 ```
-- frontend/   # Aplicação Vue.js
+- app/        # Aplicação Vue.js
 - api/        # Backend Laravel
 ```
 
@@ -47,7 +47,7 @@ A API estará disponível em `http://127.0.0.1:8000`.
 
 ### 1️⃣ Instalar dependências
 ```sh
-cd frontend
+cd app
 npm install
 ```
 

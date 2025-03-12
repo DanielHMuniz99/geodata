@@ -5,6 +5,7 @@ use App\Http\Controllers\Api\ApiCensusController;
 use App\Http\Controllers\Api\ApiLocationsController;
 use App\Http\Controllers\Api\ApiCountryGdpController;
 use App\Http\Controllers\Api\ApiIncomeDistributionsController;
+use App\Http\Controllers\Api\ApiCountriesController;
 
 Route::prefix('census')->group(function () {
     Route::get('names/{name}', [ApiCensusController::class, 'getNames']);
@@ -26,4 +27,8 @@ Route::prefix('gdp')->group(function () {
 
 Route::prefix('income')->group(function () {
     Route::get('/compare-income', [ApiIncomeDistributionsController::class, 'compareIncome']);
+});
+
+Route::prefix('countries')->group(function () {
+    Route::get('/', [ApiCountriesController::class, 'getAll']);
 });

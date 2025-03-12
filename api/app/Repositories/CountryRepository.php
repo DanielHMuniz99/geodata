@@ -14,11 +14,8 @@ class CountryRepository
         return Country::where('code', $code)->first();
     }
 
-    /**
-     * @param array $data
-     */
-    public function create(array $data)
+    public function getAll()
     {
-        return Country::create($data);
+        return Country::all();
     }
 }

@@ -6,6 +6,13 @@ use App\Models\IncomeDistribution;
 
 class IncomeDistributionRepository
 {
+    public $incomeDistribution;
+
+    public function __construct(IncomeDistribution $incomeDistribution)
+    {
+        $this->incomeDistribution = $incomeDistribution;
+    }
+
     /**
      * @param int $countryId
      */

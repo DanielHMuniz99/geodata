@@ -24,6 +24,6 @@ Route::prefix('gdp')->group(function () {
     Route::get('/{country_code}/{year}', [ApiCountryGdpController::class, 'show']);
 });
 
-Route::prefix('gimi')->group(function () {
-    Route::get('/', [ApiIncomeDistributionsController::class, 'index']);
+Route::prefix('income')->group(function () {
+    Route::get('/compare-income', [ApiIncomeDistributionsController::class, 'compareIncome']);
 });

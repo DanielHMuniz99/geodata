@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use App\Services\IncomeComparisonService;
+use App\Services\PurchasingPowerService;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -11,9 +12,14 @@ class ApiIncomeDistributionsController extends Controller
 {
     protected $incomeComparisonService;
 
-    public function __construct(IncomeComparisonService $incomeComparisonService)
-    {
+    protected $purchasingPowerService;
+
+    public function __construct(
+        IncomeComparisonService $incomeComparisonService,
+        PurchasingPowerService $purchasingPowerService
+    ) {
         $this->incomeComparisonService = $incomeComparisonService;
+        $this->purchasingPowerService = $purchasingPowerService;
     }
 
     /**
@@ -29,10 +35,18 @@ class ApiIncomeDistributionsController extends Controller
             'target_country' => 'required|string|exists:countries,code',
         ]);
 
-        $result = $this->incomeComparisonService->compare(
-            $request->input('salary'),
-            $request->input('target_country')
-        );
+        $result = [
+            "quality_of_life" => $this->incomeComparisonService->compareQualityOfLife(
+                $request->input('salary'),
+                $request->input('origin_country'),
+                $request->input('target_country')
+            ),
+            "purchasing_power" => $this->purchasingPowerService->calculateRelativePurchasingPower(
+                $request->input('origin_country'),
+                $request->input('salary'),
+                $request->input('target_country')
+            )
+        ];
 
         return response()->json($result);
     }

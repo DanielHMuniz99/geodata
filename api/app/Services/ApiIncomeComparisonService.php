@@ -20,7 +20,10 @@ class ApiIncomeComparisonService
 
     public $incomeDistributionRepository;
 
-    public function __construct(CountryRepository $countryRepository, IncomeDistributionRepository $incomeDistributionRepository) {
+    public function __construct(
+        CountryRepository $countryRepository,
+        IncomeDistributionRepository $incomeDistributionRepository
+    ) {
         $this->countryRepository = $countryRepository;
         $this->incomeDistributionRepository = $incomeDistributionRepository;
     }
@@ -29,45 +32,52 @@ class ApiIncomeComparisonService
      * @param string $originCountry
      * @param float $salary
      * @param string $targetCountry
-     * 
-     * @return int
      */
-    public function compare(string $originCountry, float $salary, string $targetCountry): int
+    public function compare(string $originCountry, float $salary, string $targetCountry)
     {
-        $targetCountryModel = $this->countryRepository->findByCode($targetCountry);
+        try {
 
-        if (!$targetCountryModel) {
-            return ['error' => 'Comparison country not found'];
-        }
+            $targetCountryModel = $this->countryRepository->findByCode($targetCountry);
 
-        $latestYear = $this->incomeDistributionRepository->getLatestIncomeDistributionByCountry($targetCountryModel->id);
-        $incomeData = $this->incomeDistributionRepository->getIncomeDistributionByCountryAndYear($targetCountryModel->id, $latestYear);
-
-        if ($incomeData->isEmpty()) {
-            return ['error' => 'Income data not available for target country'];
-        }
-
-        $gdpPerCapita = ($targetCountryModel->gdp->gdp_per_capita_ppp ?? null) / 12;
-        if (!$gdpPerCapita) {
-            return ['error' => 'GDP per capita data not found'];
-        }
-
-        $bracketValues = [];
-        $cumulativePercentage = 0;
-        foreach ($this->incomeBrackets as $key => $percentile) {
-            $cumulativePercentage = $percentile;
-            $bracketValues[$key] = ($incomeData[$key] / 100) * $gdpPerCapita;
-        }
-
-        $percentilePosition = 0;
-        foreach ($bracketValues as $key => $value) {
-            if ($salary > $value) {
-                $percentilePosition = $this->incomeBrackets[$key];
-            } else {
-                break;
+            if (!$targetCountryModel) {
+                throw new \Exception('Comparison country not found');
             }
-        }
 
-        return $percentilePosition;
+            $latestYear = $this->incomeDistributionRepository->getLatestIncomeDistributionByCountry($targetCountryModel->id);
+        
+            if (!$latestYear) {
+                throw new \Exception('Income data not available for target country');
+            }
+        
+            $incomeData = $this->incomeDistributionRepository->getIncomeDistributionByCountryAndYear($targetCountryModel->id, $latestYear);
+        
+            if ($incomeData->isEmpty()) {
+                throw new \Exception('Income data not available for target country');
+            }
+        
+            $gdpPerCapita = ($targetCountryModel->gdp->gdp_per_capita_ppp ?? null) / 12;
+            if (!$gdpPerCapita) {
+                throw new \Exception('GDP per capita data not found');
+            }
+        
+            $bracketValues = [];
+            foreach ($this->incomeBrackets as $key => $percentile) {
+                $bracketValues[$key] = ($incomeData[$key] / 100) * $gdpPerCapita;
+            }
+        
+            $percentilePosition = 0;
+            foreach ($bracketValues as $key => $value) {
+                if ($salary > $value) {
+                    $percentilePosition = $this->incomeBrackets[$key];
+                } else {
+                    break;
+                }
+            }
+
+            return $percentilePosition;
+
+        } catch (\Exception $e) {
+            return response()->json(['error' => $e->getMessage()], 400);
+        }        
     }
 }

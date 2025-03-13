@@ -15,7 +15,8 @@ class DatabaseSeeder extends Seeder
         $this->call([
             CountrySeeder::class,
             CountryGdpSeeder::class,
-            IncomeShareSeeder::class
+            IncomeShareSeeder::class,
+            CostOfLivingSeeder::class
         ]);
     }
 }

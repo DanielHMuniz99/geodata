@@ -4,6 +4,7 @@ namespace App\Services;
 
 use App\Repositories\IncomeDistributionRepository;
 use App\Repositories\CountryRepository;
+use App\Repositories\CostOfLivingRepository;
 
 class IncomeComparisonService extends BaseIncomeService
 {
@@ -13,23 +14,36 @@ class IncomeComparisonService extends BaseIncomeService
         'second_20' => 40,
         'third_20' => 60,
         'fourth_20' => 80,
-        'highest_20' => 100
+        'highest_20' => 99
     ];
 
     protected $incomeDistributionRepository;
 
     public function __construct(
         CountryRepository $countryRepository,
+        CostOfLivingRepository $costOfLivingRepository,
         IncomeDistributionRepository $incomeDistributionRepository
     ) {
-        parent::__construct($countryRepository);
+        parent::__construct($countryRepository, $costOfLivingRepository);
         $this->incomeDistributionRepository = $incomeDistributionRepository;
     }
 
-    public function compare(float $salary, string $targetCountry): int
+    public function compareQualityOfLife(float $salary, string $originCountry, string $targetCountry)
     {
         try {
+            $originCountryModel = $this->getCountryModel($originCountry);
             $targetCountryModel = $this->getCountryModel($targetCountry);
+    
+            $originCostOfLiving = $this->getCostOfLivingByCountry($originCountryModel->id);
+            $targetCostOfLiving = $this->getCostOfLivingByCountry($targetCountryModel->id);
+
+            if (!$originCostOfLiving || !$targetCostOfLiving) {
+                throw new \Exception('Cost of living data not available for one or both countries');
+            }
+
+            $adjustedSalary = $salary *
+                ($targetCostOfLiving->cost_living_index / $originCostOfLiving->cost_living_index) *
+                ($originCostOfLiving->local_purchasing_power_index / $targetCostOfLiving->local_purchasing_power_index);
 
             $latestYear = $this->incomeDistributionRepository->getLatestIncomeDistributionByCountry($targetCountryModel->id);
 
@@ -55,7 +69,7 @@ class IncomeComparisonService extends BaseIncomeService
 
             $percentilePosition = 0;
             foreach ($bracketValues as $key => $value) {
-                if ($salary > $value) {
+                if ($adjustedSalary > $value) {
                     $percentilePosition = $this->incomeBrackets[$key];
                 } else {
                     break;

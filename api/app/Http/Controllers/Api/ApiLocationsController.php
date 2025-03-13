@@ -27,6 +27,15 @@ class ApiLocationsController extends Controller
     }
 
     /**
+     * @return JsonResponse
+     */
+    public function getStates(): JsonResponse
+    {
+        $data = $this->apiLocationsService->getStates();
+        return response()->json($data);
+    }
+
+    /**
      * @param string|null $state
      * 
      * @return JsonResponse

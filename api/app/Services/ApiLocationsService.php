@@ -10,6 +10,16 @@ class ApiLocationsService implements ApiLocationsInterface
     protected string $baseUrl = 'https://servicodados.ibge.gov.br/api/v1/localidades';
 
     /**
+     * @return array
+     */
+    public function getStates(): array
+    {
+        $url = $this->baseUrl . '/estados';
+        $response = Http::get($url);
+        return $response->json();
+    }
+
+    /**
      * @param int|null $id
      * 
      * @return array

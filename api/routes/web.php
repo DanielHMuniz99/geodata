@@ -14,6 +14,7 @@ Route::prefix('census')->group(function () {
 
 Route::prefix('locations')->group(function () {
     Route::get('/districts/{id?}', [ApiLocationsController::class, 'getDistrictsById']);
+    Route::get('/states', [ApiLocationsController::class, 'getStates']);
     Route::get('/states/{state?}/districts', [ApiLocationsController::class, 'getDistrictsByFederalUnit']);
     Route::get('/mesoregions/{mesoregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMesoregion']);
     Route::get('/microregions/{microregion?}/districts', [ApiLocationsController::class, 'getDistrictsByMicroregion']);

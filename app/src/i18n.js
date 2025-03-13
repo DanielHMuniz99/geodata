@@ -17,6 +17,13 @@ const messages = {
     your_salary_in: 'Your monthly salary (in {currency})',
     compare: "Compare",
     with_your_salary: "With a salary of ${salary} in {originCountry}, you are richer than {result}% of the population of {targetCountry}",
+    states_list: "List of States",
+    name: "Name",
+    abbreviation: "Abbreviation",
+    region: "Region",
+    loading_states: "Loading states",
+    items_per_page: "Items per page",
+    of: "of",
   },
   pt: {
     search: "Pesquisar",
@@ -34,6 +41,13 @@ const messages = {
     your_salary_in: 'Seu salário mensal (em {currency})',
     compare: "Compare",
     with_your_salary: "Com um salário de ${salary} em {originCountry}, você é mais rico que {result}% da população do(a) {targetCountry}",
+    states_list: "Lista de Estados",
+    name: "Nome",
+    abbreviation: "Sigla",
+    region: "Região",
+    loading_states: "Carregando estados",
+    items_per_page: "Itens por página",
+    of: "de",
   }
 };
 

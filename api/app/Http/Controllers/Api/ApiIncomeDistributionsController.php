@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
-use App\Services\ApiIncomeComparisonService;
+use App\Services\IncomeComparisonService;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -11,7 +11,7 @@ class ApiIncomeDistributionsController extends Controller
 {
     protected $incomeComparisonService;
 
-    public function __construct(ApiIncomeComparisonService $incomeComparisonService)
+    public function __construct(IncomeComparisonService $incomeComparisonService)
     {
         $this->incomeComparisonService = $incomeComparisonService;
     }
@@ -30,7 +30,6 @@ class ApiIncomeDistributionsController extends Controller
         ]);
 
         $result = $this->incomeComparisonService->compare(
-            $request->input('origin_country'),
             $request->input('salary'),
             $request->input('target_country')
         );

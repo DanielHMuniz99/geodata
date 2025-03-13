@@ -8,16 +8,14 @@ import Sidebar from './components/Sidebar.vue';
     <v-layout>
       <Header/>
       <v-main>
-        <v-container fluid>
-          <v-row dense>
-            <v-col cols="2">
-              <Sidebar/>
-            </v-col>
-            <v-col cols="10">
-              <router-view/>
-            </v-col>
-          </v-row>
-        </v-container>
+        <v-row dense>
+          <v-col cols="2">
+            <Sidebar/>
+          </v-col>
+          <v-col cols="10">
+            <router-view/>
+          </v-col>
+        </v-row>
       </v-main>
     </v-layout>
   </v-card>

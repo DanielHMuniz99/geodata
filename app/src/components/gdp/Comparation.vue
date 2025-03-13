@@ -133,7 +133,7 @@
         },
       });
 
-      result.value = response.data;
+      result.value = response.data.quality_of_life;
     } catch (error) {
       error.value = "Error fetching data. Check the values ​​entered.";
     } finally {

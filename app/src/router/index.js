@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import MainContent from '../components/MainContent.vue';
-import Locations from '../components/Locations.vue';
+import Locations from '../components/locations/Locations.vue';
 import Gdp from '../components/gdp/Gdp.vue';
 import CensusView from '../components/census/CensusView.vue';
 

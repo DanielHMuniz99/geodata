@@ -3,6 +3,9 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use App\Interfaces\HttpClientInterface;
+use App\Services\HttpClient\HttpClientService;
+use App\Services\HttpClient\GuzzleHttpClientService;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -11,7 +14,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        //
+        $this->app->bind(HttpClientInterface::class, HttpClientService::class);
     }
 
     /**

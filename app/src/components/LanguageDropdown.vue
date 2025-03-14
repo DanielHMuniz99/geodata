@@ -27,7 +27,7 @@ const { t, locale } = useI18n();
 
 const languages = ref([
   { code: 'pt', label: t('portuguese'), flag: `${config.apiUrl}/images/flags/icons/BRA.svg` },
-  { code: 'en', label: t('english'), flag: `${config.apiUrl}/images/flags/icons/USA.svg` }
+  { code: 'en', label: t('english'), flag: `${config.apiUrl}/images/flags/icons/GBR.svg` }
 ]);
 
 const currentLanguage = ref(i18n.locale.value);

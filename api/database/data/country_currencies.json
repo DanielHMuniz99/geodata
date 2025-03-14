@@ -1,0 +1,158 @@
+[
+    {
+        "code": "USA",
+        "currency": "USD"
+    },
+    {
+        "code": "CHN",
+        "currency": "CNY"
+    },
+    {
+        "code": "JPN",
+        "currency": "JPY"
+    },
+    {
+        "code": "DEU",
+        "currency": "EUR"
+    },
+    {
+        "code": "IND",
+        "currency": "INR"
+    },
+    {
+        "code": "GBR",
+        "currency": "GBP"
+    },
+    {
+        "code": "FRA",
+        "currency": "EUR"
+    },
+    {
+        "code": "ITA",
+        "currency": "EUR"
+    },
+    {
+        "code": "CAN",
+        "currency": "CAD"
+    },
+    {
+        "code": "KOR",
+        "currency": "KRW"
+    },
+    {
+        "code": "RUS",
+        "currency": "RUB"
+    },
+    {
+        "code": "BRA",
+        "currency": "BRL"
+    },
+    {
+        "code": "AUS",
+        "currency": "AUD"
+    },
+    {
+        "code": "ESP",
+        "currency": "EUR"
+    },
+    {
+        "code": "MEX",
+        "currency": "MXN"
+    },
+    {
+        "code": "IDN",
+        "currency": "IDR"
+    },
+    {
+        "code": "NLD",
+        "currency": "EUR"
+    },
+    {
+        "code": "SAU",
+        "currency": "SAR"
+    },
+    {
+        "code": "TUR",
+        "currency": "TRY"
+    },
+    {
+        "code": "CHE",
+        "currency": "CHF"
+    },
+    {
+        "code": "ARG",
+        "currency": "ARS"
+    },
+    {
+        "code": "ZAF",
+        "currency": "ZAR"
+    },
+    {
+        "code": "POL",
+        "currency": "PLN"
+    },
+    {
+        "code": "THA",
+        "currency": "THB"
+    },
+    {
+        "code": "IRN",
+        "currency": "IRR"
+    },
+    {
+        "code": "SWE",
+        "currency": "SEK"
+    },
+    {
+        "code": "BEL",
+        "currency": "EUR"
+    },
+    {
+        "code": "NOR",
+        "currency": "NOK"
+    },
+    {
+        "code": "AUT",
+        "currency": "EUR"
+    },
+    {
+        "code": "ARE",
+        "currency": "AED"
+    },
+    {
+        "code": "ISR",
+        "currency": "ILS"
+    },
+    {
+        "code": "SGP",
+        "currency": "SGD"
+    },
+    {
+        "code": "MYS",
+        "currency": "MYR"
+    },
+    {
+        "code": "PHL",
+        "currency": "PHP"
+    },
+    {
+        "code": "COL",
+        "currency": "COP"
+    },
+    {
+        "code": "EGY",
+        "currency": "EGP"
+    },
+    {
+        "code": "PAK",
+        "currency": "PKR"
+    },
+    {
+        "code": "VNM",
+        "currency": "VND"
+    },
+    {
+        "code": "BGD",
+        "currency": "BDT"
+    }
+]

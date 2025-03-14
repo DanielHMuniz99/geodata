@@ -3,8 +3,6 @@
 namespace App\Services;
 
 use App\Interfaces\ApiLocationsInterface;
-use Illuminate\Support\Facades\Http;
-use App\Services\HttpClient\HttpClientService;
 use App\Interfaces\HttpClientInterface;
 
 class ApiLocationsService implements ApiLocationsInterface

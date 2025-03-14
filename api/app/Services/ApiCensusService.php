@@ -3,11 +3,18 @@
 namespace App\Services;
 
 use App\Interfaces\ApiCensusInterface;
-use Illuminate\Support\Facades\Http;
+use App\Interfaces\HttpClientInterface;
 
 class ApiCensusService implements ApiCensusInterface
 {
     protected string $baseUrl = "https://servicodados.ibge.gov.br/api/v2/censos/nomes";
+
+    protected $httpClient;
+
+    public function __construct(HttpClientInterface $httpClient)
+    {
+        $this->httpClient = $httpClient;
+    }
 
     /**
      * @param string $name

@@ -35,7 +35,7 @@ class BaseIncomeService
         $costOfLivingModel = $this->costOfLivingRepository->findById($countryId);
 
         if (!$costOfLivingModel) {
-            throw new \Exception("Country '{$costOfLivingModel}' not found.");
+            throw new \Exception("Country '{$countryId}' not found.");
         }
 
         return $costOfLivingModel;

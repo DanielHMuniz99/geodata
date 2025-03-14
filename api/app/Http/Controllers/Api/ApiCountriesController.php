@@ -17,6 +17,6 @@ class ApiCountriesController extends Controller
 
     public function getAll()
     {
-        return response()->json($this->countryRepository->getAll());
+        return response()->json($this->countryRepository->getCountriesWithData());
     }
 }

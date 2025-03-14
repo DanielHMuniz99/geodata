@@ -18,7 +18,9 @@ class HttpClientService implements HttpClientInterface
 
         $headers = array_merge($defaultHeaders, $headers);
 
-        $response = Http::withHeaders($headers)->$method($url, $data);
+        $urlWithParams = $url . (strpos($url, '?') === false ? '?' : '&') . http_build_query($data);
+
+        $response = Http::withHeaders($headers)->$method($urlWithParams);
         $response->throw();
 
         return $response;

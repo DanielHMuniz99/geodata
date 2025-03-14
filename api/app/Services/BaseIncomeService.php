@@ -19,6 +19,9 @@ class BaseIncomeService
         $this->costOfLivingRepository = $costOfLivingRepository;
     }
 
+    /**
+     * @param string $countryCode
+     */
     protected function getCountryModel(string $countryCode)
     {
         $countryModel = $this->countryRepository->findByCode($countryCode);
@@ -30,6 +33,9 @@ class BaseIncomeService
         return $countryModel;
     }
 
+    /**
+     * @param int $countryId
+     */
     protected function getCostOfLivingByCountry(int $countryId)
     {
         $costOfLivingModel = $this->costOfLivingRepository->findById($countryId);

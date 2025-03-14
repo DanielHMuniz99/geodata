@@ -6,6 +6,7 @@ use App\Http\Controllers\Api\ApiLocationsController;
 use App\Http\Controllers\Api\ApiCountryGdpController;
 use App\Http\Controllers\Api\ApiIncomeDistributionsController;
 use App\Http\Controllers\Api\ApiCountriesController;
+use App\Http\Controllers\Api\ApiCurrenciesController;
 
 Route::prefix('census')->group(function () {
     Route::get('names/{name}', [ApiCensusController::class, 'getNames']);
@@ -32,4 +33,10 @@ Route::prefix('income')->group(function () {
 
 Route::prefix('countries')->group(function () {
     Route::get('/', [ApiCountriesController::class, 'getAll']);
+});
+
+Route::prefix('currencies')->group(function () {
+    Route::get('/latest', [ApiCurrenciesController::class, 'getLatestCurrencies']);
+    Route::get('/update', [ApiCurrenciesController::class, 'update']);
+    Route::get('/get', [ApiCurrenciesController::class, 'getCurrency']);
 });

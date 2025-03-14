@@ -57,14 +57,13 @@
   
                 <v-select
                   v-model="currency"
-                  :items="currencies"
+                  :items="currencies.map(c => c.currency_code)"
                   :label="$t('currency')"
-                  disabled
                 ></v-select>
-  
+
                 <v-text-field
                   v-model="salary"
-                  :label="$t('your_salary_in', { currency: 'USD' })"
+                  :label="$t('your_salary_in', { currency: currency })"
                   type="number"
                   prefix="$"
                   required
@@ -87,7 +86,7 @@
   </template>
   
 <script setup>
-  import { ref, inject, onMounted } from "vue";
+  import { ref, inject, onMounted, watch } from "vue";
   import axios from "axios";
 
   const config = inject("config");
@@ -96,7 +95,7 @@
   const targetCountry = ref(null);
   const salary = ref(null);
   const currency = ref("USD");
-  const currencies = ref(["USD"]);
+  const currencies = ref([]);
   const result = ref(null);
   const error = ref(null);
   const loading = ref(false);
@@ -109,6 +108,38 @@
       console.error("Error when searching for countries:", error);
     }
   }
+
+  const fetchCurrencies = async () => {
+    try {
+      const response = await axios.get(`${config.apiUrl}/currencies/get`);
+      const data = response.data;
+
+      currencies.value = data.map(item => ({
+        code: item.code,
+        currency_code: item.currency_code,
+        currency: item.currency
+      }));
+
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  };
+
+  const updateCurrency = () => {
+    if (!originCountry.value) {
+      return;
+    }
+
+    const selectedCurrency = currencies.value.find(
+      item => item.code === originCountry.value.code
+    );
+
+    if (selectedCurrency) {
+      currency.value = selectedCurrency.currency_code;
+    } else {
+      currency.value = "USD";
+    }
+  };
 
   const getFlagUrl = (code) => {
     return `${config.apiUrl}/images/flags/icons/${code.toUpperCase()}.svg`;
@@ -141,6 +172,8 @@
     }
   }
 
-  onMounted(fetchCountries);
+  onMounted(fetchCountries(), fetchCurrencies());
+
+  watch(originCountry, updateCurrency);
 </script>
   

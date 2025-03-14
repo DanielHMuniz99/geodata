@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use App\Services\ApiCurrenciesService;
 use App\Repositories\CurrencyRateRepository;
+use App\Repositories\CountryCurrencyRepository;
 use Illuminate\Http\JsonResponse;
 
 class ApiCurrenciesController extends Controller
@@ -13,12 +14,16 @@ class ApiCurrenciesController extends Controller
 
     protected $currencyRateRepository;
 
+    protected $countryCurrencyRepository;
+
     public function __construct(
         ApiCurrenciesService $apiCurrenciesService,
-        CurrencyRateRepository $currencyRateRepository
+        CurrencyRateRepository $currencyRateRepository,
+        CountryCurrencyRepository $countryCurrencyRepository
     ) {
         $this->apiCurrenciesService = $apiCurrenciesService;
         $this->currencyRateRepository = $currencyRateRepository;
+        $this->countryCurrencyRepository = $countryCurrencyRepository;
     }
 
         /**
@@ -27,7 +32,23 @@ class ApiCurrenciesController extends Controller
     public function getCurrency(): JsonResponse
     {
         $response = $this->currencyRateRepository->getCurrency();
-        return response()->json(json_decode($response->rates, true));
+        if (!$response) {
+            $response = $this->apiCurrenciesService->update();
+        }
+
+        $data = $this->countryCurrencyRepository->getAll();
+        $cotacoes = json_decode($response->rates, true);
+
+        $currencies = [];
+        foreach ($data as $currency) {
+            $currencies[] = [
+                "currency_code" => $currency["currency"],
+                "code" => $currency["code"],
+                "currency" => $cotacoes[$currency["currency"]],
+            ];
+        }
+
+        return response()->json($currencies);
     }
 
     /**

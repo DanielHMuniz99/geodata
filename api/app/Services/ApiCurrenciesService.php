@@ -28,6 +28,7 @@ class ApiCurrenciesService
     public function updateCurrencies()
     {
         $data = $this->getLatestCurrencies();
-        dd($data);
+        $repository->store($data);
+        return $data;
     }
 }

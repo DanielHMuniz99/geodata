@@ -80,7 +80,6 @@ button:focus-visible {
 
 .no-overflow-x {
   width: 100%;
-  overflow-x: hidden;
 }
 
 .sidebar {

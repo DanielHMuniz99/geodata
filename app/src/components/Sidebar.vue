@@ -1,21 +1,14 @@
 <template>
-  <aside class="sidebar">
-    <v-row>
-      <v-col
-        cols="12"
-        md="12"
-      >
-        <div 
-          v-for="route in routes" 
-          :key="route.name" 
-          @click="openPage(route.path)"
-          class="mt-2 clickable"
-        >
-          {{ route.name }}
-        </div>
-      </v-col>
-    </v-row>
-  </aside>
+<v-navigation-drawer>
+  <v-list-item 
+    v-for="route in routes"
+    :key="route.name"
+    @click="openPage(route.path)"
+    link
+    :title="route.name"
+  >
+  </v-list-item>
+</v-navigation-drawer>
 </template>
 
 <script setup>

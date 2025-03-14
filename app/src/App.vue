@@ -8,11 +8,9 @@ import Sidebar from './components/Sidebar.vue';
     <v-layout>
       <Header/>
       <v-main>
-        <v-row dense>
-          <v-col cols="2">
-            <Sidebar/>
-          </v-col>
-          <v-col cols="10">
+        <v-row no-gutters>
+          <Sidebar/>
+          <v-col cols="12">
             <router-view/>
           </v-col>
         </v-row>

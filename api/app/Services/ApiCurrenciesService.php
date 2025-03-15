@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Interfaces\HttpClientInterface;
+use App\Repositories\CurrencyRateRepository;
 
 class ApiCurrenciesService
 {
@@ -10,11 +11,16 @@ class ApiCurrenciesService
 
     protected string $apiKey = "";
 
+    protected $currencyRateRepository;
+
     protected $httpClient;
 
-    public function __construct(HttpClientInterface $httpClient)
-    {
+    public function __construct(
+        HttpClientInterface $httpClient,
+        CurrencyRateRepository $currencyRateRepository
+    ) {
         $this->httpClient = $httpClient;
+        $this->currencyRateRepository = $currencyRateRepository;
         $this->apiKey = env("API_CURRENCY_FREAKS");
     }
 
@@ -27,8 +33,7 @@ class ApiCurrenciesService
 
     public function updateCurrencies()
     {
-        $data = $this->getLatestCurrencies();
-        $repository->store($data);
-        return $data;
+        $currenciesRate = $this->currencyRateRepository->store($this->getLatestCurrencies());
+        return $currenciesRate;
     }
 }

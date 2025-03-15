@@ -16,13 +16,16 @@ class CurrencyRateRepository
 
     public function getCurrency()
     {
-        return $this->currencyRateModel->first();
+        return $this->currencyRateModel->where("date", Carbon::now())->first();
     }
 
     public function store(array $data): CurrencyRate
     {
         return $this->currencyRateModel->updateOrCreate(
-            ['date' => Carbon::parse($data['date'])->toDateString()],
+            [
+                'date' => Carbon::parse($data['date'])->toDateString(),
+                'base_currency' => 'USD'
+            ],
             [
                 'base_currency' => $data['base'],
                 'rates' => json_encode($data['rates']),

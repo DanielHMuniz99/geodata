@@ -33,7 +33,7 @@ class ApiCurrenciesController extends Controller
     {
         $response = $this->currencyRateRepository->getCurrency();
         if (!$response) {
-            $response = $this->apiCurrenciesService->update();
+            $response = $this->apiCurrenciesService->updateCurrencies();
         }
 
         $data = $this->countryCurrencyRepository->getAll();

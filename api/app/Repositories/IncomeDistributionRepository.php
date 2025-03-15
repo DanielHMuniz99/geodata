@@ -18,7 +18,7 @@ class IncomeDistributionRepository
      */
     public function getLatestIncomeDistributionByCountry(int $countryId)
     {
-        return IncomeDistribution::where('country_id', $countryId)
+        return $this->incomeDistribution->where('country_id', $countryId)
             ->max('year');
     }
 
@@ -28,7 +28,7 @@ class IncomeDistributionRepository
      */
     public function getIncomeDistributionByCountryAndYear(int $countryId, int $latestYear)
     {
-        return IncomeDistribution::where('country_id', $countryId)
+        return $this->incomeDistribution->where('country_id', $countryId)
             ->where('year', $latestYear)
             ->get()
             ->pluck('income_share', 'series');

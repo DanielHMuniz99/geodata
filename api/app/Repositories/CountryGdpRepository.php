@@ -6,9 +6,16 @@ use App\Models\CountryGdp;
 
 class CountryGdpRepository
 {
+    public $countryGdp;
+
+    public function __construct(CountryGdp $countryGdp)
+    {
+        $this->countryGdp = $countryGdp;
+    }
+
     public function getAll()
     {
-        return CountryGdp::with('country')->get();
+        return $this->countryGdp->with('country')->get();
     }
 
     /**
@@ -17,7 +24,7 @@ class CountryGdpRepository
      */
     public function getByCountryAndYear(int $countryId, string $year)
     {
-        return CountryGdp::where('country_id', $countryId)
+        return $this->countryGdp->where('country_id', $countryId)
             ->where('year', $year)
             ->first();
     }
@@ -27,6 +34,6 @@ class CountryGdpRepository
      */
     public function create(array $data)
     {
-        return CountryGdp::create($data);
+        return $this->countryGdp->create($data);
     }
 }

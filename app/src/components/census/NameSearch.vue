@@ -1,13 +1,20 @@
 <template>
-  <v-container>
-    <v-row>
-      <v-col cols="12" md="9" sm="9">
-        <v-text-field v-model="name" :label="t('search_name')"></v-text-field>
-      </v-col>
-      <v-col cols="12" md="3" sm="3">
-        <v-btn size="x-large" @click="searchName()"> {{ t('search') }} </v-btn>
-      </v-col>
-    </v-row>
+    <v-container>
+      <v-row justify="center">
+        <v-col cols="12" md="12">
+          <v-card-title class="text-h6">{{ $t('search_name') }}</v-card-title>
+          <v-card-text>
+            <v-form>
+              <v-row>
+                <v-col cols="12" md="12">
+                  <v-text-field v-model="name" :label="t('search_name')"></v-text-field>
+                  <v-btn @click="searchName()" color="primary" block :loading="loading">{{ t('search') }}</v-btn>
+                </v-col>
+              </v-row>
+            </v-form>
+          </v-card-text>
+        </v-col>
+      </v-row>
     <LineChart v-if="chartData" :chartData="chartData" />
   </v-container>
 </template>

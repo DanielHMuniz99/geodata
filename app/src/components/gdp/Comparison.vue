@@ -5,73 +5,82 @@
           <v-card-title class="text-h6">{{ $t('quality_life_comparison') }}</v-card-title>
             <v-card-text>
               <v-form>
-                <v-select
-                  v-model="originCountry"
-                  :items="countries"
-                  item-title="country"
-                  item-value="code"
-                  :label="$t('country_origin')"
-                  return-object
-                >
-                  <template v-slot:selection="{ item }">
-                    <v-avatar size="24" class="mr-2">
-                      <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
-                    </v-avatar>
-                    {{ item.raw.country }}
-                  </template>
-                  <template v-slot:item="{ props, item }">
-                    <v-list-item v-bind="props">
-                      <template v-slot:prepend>
-                        <v-avatar size="24">
+                <v-row>
+                  <v-col cols="12" md="6">
+                    <v-select
+                      v-model="originCountry"
+                      :items="countries"
+                      item-title="country"
+                      item-value="code"
+                      :label="$t('country_origin')"
+                      return-object
+                    >
+                      <template v-slot:selection="{ item }">
+                        <v-avatar size="24" class="mr-2">
                           <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
                         </v-avatar>
+                        {{ item.raw.country }}
                       </template>
-                    </v-list-item>
-                  </template>
-                </v-select>
-
-                <v-select
-                  v-model="targetCountry"
-                  :items="countries"
-                  item-title="country"
-                  item-value="code"
-                  :label="$t('country_comparison')"
-                  return-object
-                >
-                  <template v-slot:selection="{ item }">
-                    <v-avatar size="24" class="mr-2">
-                      <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
-                    </v-avatar>
-                    {{ item.raw.country }}
-                  </template>
-                  <template v-slot:item="{ props, item }">
-                    <v-list-item v-bind="props">
-                      <template v-slot:prepend>
-                        <v-avatar size="24">
+                      <template v-slot:item="{ props, item }">
+                        <v-list-item v-bind="props">
+                          <template v-slot:prepend>
+                            <v-avatar size="24">
+                              <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
+                            </v-avatar>
+                          </template>
+                        </v-list-item>
+                      </template>
+                    </v-select>
+                  </v-col>
+                  <v-col cols="12" md="6">
+                    <v-select
+                      v-model="targetCountry"
+                      :items="countries"
+                      item-title="country"
+                      item-value="code"
+                      :label="$t('country_comparison')"
+                      return-object
+                    >
+                      <template v-slot:selection="{ item }">
+                        <v-avatar size="24" class="mr-2">
                           <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
                         </v-avatar>
+                        {{ item.raw.country }}
                       </template>
-                    </v-list-item>
-                  </template>
-                </v-select>
-  
-                <v-select
-                  v-model="currency"
-                  :items="currencies.map(c => c.currency_code)"
-                  :label="$t('currency')"
-                ></v-select>
+                      <template v-slot:item="{ props, item }">
+                        <v-list-item v-bind="props">
+                          <template v-slot:prepend>
+                            <v-avatar size="24">
+                              <img :src="getFlagUrl(item.raw.code)" :alt="item.raw.country" />
+                            </v-avatar>
+                          </template>
+                        </v-list-item>
+                      </template>
+                    </v-select>
+                  </v-col>
+                </v-row>
 
-                <v-text-field
-                  v-model="salary"
-                  :label="$t('your_salary_in', { currency: currency })"
-                  type="number"
-                  prefix="$"
-                  required
-                ></v-text-field>
-
-                <v-btn @click="compareIncome()" color="primary" block :loading="loading">{{ $t('compare') }}</v-btn>
+                <v-row>
+                  <v-col cols="12" md="6">
+                    <v-select
+                      v-model="currency"
+                      :items="currencies.map(c => c.currency_code)"
+                      :label="$t('currency')"
+                    ></v-select>
+                  </v-col>
+                  <v-col cols="12" md="6">
+                    <v-text-field
+                      v-model="salary"
+                      :label="$t('your_salary_in', { currency: currency })"
+                      type="number"
+                      prefix="$"
+                      required
+                    ></v-text-field>
+                  </v-col>
+                  <v-btn @click="compareIncome()" color="primary" block :loading="loading">{{ $t('compare') }}</v-btn>
+                </v-row>
               </v-form>
-  
+
               <v-alert v-if="result" class="mt-4" type="info">
                 {{ $t('with_your_salary', { salary: salary, originCountry: originCountry?.country, result: result, targetCountry: targetCountry?.country }) }}
               </v-alert>

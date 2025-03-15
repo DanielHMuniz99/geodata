@@ -43,6 +43,7 @@ class ApiCurrenciesController extends Controller
         foreach ($data as $currency) {
             $currencies[] = [
                 "currency_code" => $currency["currency"],
+                "name" => $currency["name"],
                 "code" => $currency["code"],
                 "currency" => $cotacoes[$currency["currency"]],
             ];

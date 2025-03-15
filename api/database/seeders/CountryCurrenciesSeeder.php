@@ -20,6 +20,7 @@ class CountryCurrenciesSeeder extends Seeder
             DB::table('country_currencies')->insert([
                 'country_id' => $country->id,
                 'currency' => $data["currency"],
+                'name' => $data["name"],
             ]);
         }
     }

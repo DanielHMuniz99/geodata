@@ -1,158 +1,197 @@
 [
     {
         "code": "USA",
-        "currency": "USD"
+        "currency": "USD",
+        "name": "United States dollar"
     },
     {
         "code": "CHN",
-        "currency": "CNY"
+        "currency": "CNY",
+        "name": "Chinese yuan"
     },
     {
         "code": "JPN",
-        "currency": "JPY"
+        "currency": "JPY",
+        "name": "Japanese yen"
     },
     {
         "code": "DEU",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "IND",
-        "currency": "INR"
+        "currency": "INR",
+        "name": "Indian rupee"
     },
     {
         "code": "GBR",
-        "currency": "GBP"
+        "currency": "GBP",
+        "name": "British pound"
     },
     {
         "code": "FRA",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "ITA",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "CAN",
-        "currency": "CAD"
+        "currency": "CAD",
+        "name": "Canadian dollar"
     },
     {
         "code": "KOR",
-        "currency": "KRW"
+        "currency": "KRW",
+        "name": "South Korean won"
     },
     {
         "code": "RUS",
-        "currency": "RUB"
+        "currency": "RUB",
+        "name": "Russian ruble"
     },
     {
         "code": "BRA",
-        "currency": "BRL"
+        "currency": "BRL",
+        "name": "Brazilian real"
     },
     {
         "code": "AUS",
-        "currency": "AUD"
+        "currency": "AUD",
+        "name": "Australian dollar"
     },
     {
         "code": "ESP",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "MEX",
-        "currency": "MXN"
+        "currency": "MXN",
+        "name": "Mexican peso"
     },
     {
         "code": "IDN",
-        "currency": "IDR"
+        "currency": "IDR",
+        "name": "Indonesian rupiah"
     },
     {
         "code": "NLD",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "SAU",
-        "currency": "SAR"
+        "currency": "SAR",
+        "name": "Saudi riyal"
     },
     {
         "code": "TUR",
-        "currency": "TRY"
+        "currency": "TRY",
+        "name": "Turkish lira"
     },
     {
         "code": "CHE",
-        "currency": "CHF"
+        "currency": "CHF",
+        "name": "Swiss franc"
     },
     {
         "code": "ARG",
-        "currency": "ARS"
+        "currency": "ARS",
+        "name": "Argentine peso"
     },
     {
         "code": "ZAF",
-        "currency": "ZAR"
+        "currency": "ZAR",
+        "name": "South African rand"
     },
     {
         "code": "POL",
-        "currency": "PLN"
+        "currency": "PLN",
+        "name": "Polish złoty"
     },
     {
         "code": "THA",
-        "currency": "THB"
+        "currency": "THB",
+        "name": "Thai baht"
     },
     {
         "code": "IRN",
-        "currency": "IRR"
+        "currency": "IRR",
+        "name": "Iranian rial"
     },
     {
         "code": "SWE",
-        "currency": "SEK"
+        "currency": "SEK",
+        "name": "Swedish krona"
     },
     {
         "code": "BEL",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "NOR",
-        "currency": "NOK"
+        "currency": "NOK",
+        "name": "Norwegian krone"
     },
     {
         "code": "AUT",
-        "currency": "EUR"
+        "currency": "EUR",
+        "name": "Euro"
     },
     {
         "code": "ARE",
-        "currency": "AED"
+        "currency": "AED",
+        "name": "United Arab Emirates dirham"
     },
     {
         "code": "ISR",
-        "currency": "ILS"
+        "currency": "ILS",
+        "name": "Israeli shekel"
     },
     {
         "code": "SGP",
-        "currency": "SGD"
+        "currency": "SGD",
+        "name": "Singapore dollar"
     },
     {
         "code": "MYS",
-        "currency": "MYR"
+        "currency": "MYR",
+        "name": "Malaysian ringgit"
     },
     {
         "code": "PHL",
-        "currency": "PHP"
+        "currency": "PHP",
+        "name": "Philippine peso"
     },
     {
         "code": "COL",
-        "currency": "COP"
+        "currency": "COP",
+        "name": "Colombian peso"
     },
     {
         "code": "EGY",
-        "currency": "EGP"
+        "currency": "EGP",
+        "name": "Egyptian pound"
     },
     {
         "code": "PAK",
-        "currency": "PKR"
+        "currency": "PKR",
+        "name": "Pakistani rupee"
     },
     {
         "code": "VNM",
-        "currency": "VND"
+        "currency": "VND",
+        "name": "Vietnamese đồng"
     },
     {
         "code": "BGD",
-        "currency": "BDT"
+        "currency": "BDT",
+        "name": "Bangladeshi taka"
     }
 ]

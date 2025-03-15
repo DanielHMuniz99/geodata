@@ -116,7 +116,7 @@
 
       currencies.value = data.map(item => ({
         code: item.code,
-        currency_code: item.currency_code,
+        currency_code: item.name,
         currency: item.currency
       }));
 

@@ -17,7 +17,7 @@ class CountryCurrencyRepository
     public function getAll()
     {
         return $this->countryCurrencyModel
-            ->select(["country_currencies.currency", "countries.code"])
+            ->select(["country_currencies.currency", "country_currencies.name", "countries.code"])
             ->leftJoin("countries", "countries.id", "country_currencies.country_id")
             ->get();
     }

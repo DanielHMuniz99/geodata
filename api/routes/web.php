@@ -8,6 +8,7 @@ use App\Http\Controllers\Api\ApiIncomeDistributionsController;
 use App\Http\Controllers\Api\ApiCountriesController;
 use App\Http\Controllers\Api\ApiCurrenciesController;
 use App\Http\Controllers\Api\TranslationController;
+use App\Http\Controllers\Api\ApiNewsController;
 
 Route::prefix('census')->group(function () {
     Route::get('names/{name}', [ApiCensusController::class, 'getNames']);
@@ -44,4 +45,8 @@ Route::prefix('currencies')->group(function () {
 
 Route::prefix('translate')->group(function () {
     Route::get('/text', [TranslationController::class, 'translateText']);
+});
+
+Route::prefix('news')->group(function () {
+    Route::get('/get/{lang?}', [ApiNewsController::class, 'getNews']);
 });

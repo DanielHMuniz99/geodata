@@ -99,3 +99,7 @@ button:focus-visible {
 .clickable:hover {
   background: #e0e0e0;
 }
+
+.strokeme {
+  text-shadow: -2px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}

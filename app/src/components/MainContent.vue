@@ -73,9 +73,3 @@ const fetchNews = async () => {
 onMounted(fetchNews);
 
 </script>
-
-<style>
-.strokeme {
-  text-shadow: -2px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-}
-</style>

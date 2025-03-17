@@ -16,7 +16,8 @@ class DatabaseSeeder extends Seeder
             CountrySeeder::class,
             CountryGdpSeeder::class,
             IncomeShareSeeder::class,
-            CostOfLivingSeeder::class
+            CostOfLivingSeeder::class,
+            IntegrationSeeder::class
         ]);
     }
 }

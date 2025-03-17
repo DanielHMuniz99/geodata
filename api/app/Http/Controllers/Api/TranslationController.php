@@ -18,10 +18,10 @@ class TranslationController extends Controller
     /**
      * @param Request $request
      */
-    public function translateText(Request $request)
+    public function translateText(?string $lang, Request $request)
     {
-        $message = $request->input('message');
-        $translatedText = $this->translateService->translateText($text, $message);
-        return response()->json($message);
+        $message[] = $request->input('message');
+        $translatedText = $this->translateService->translateText($message, $lang);
+        return response()->json($translatedText);
     }
 }

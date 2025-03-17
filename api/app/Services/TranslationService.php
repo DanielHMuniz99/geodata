@@ -24,15 +24,16 @@ class TranslationService
 
     /**
      * @param string $message
+     * @param string $lang
      * 
      * @return array
      */
-    public function translateText(array $message): array
+    public function translateText(array $message, string $lang = "en"): array
     {
         $response = $this->httpClient->post(
             $this->url,
             [
-                "target_lang" => "en",
+                "target_lang" => $lang,
                 "text" => $message
             ],
             $this->headers

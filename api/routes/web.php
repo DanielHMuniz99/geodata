@@ -44,7 +44,7 @@ Route::prefix('currencies')->group(function () {
 });
 
 Route::prefix('translate')->group(function () {
-    Route::get('/text', [TranslationController::class, 'translateText']);
+    Route::get('/text/{lang?}', [TranslationController::class, 'translateText']);
 });
 
 Route::prefix('news')->group(function () {

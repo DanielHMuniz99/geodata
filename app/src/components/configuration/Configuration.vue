@@ -6,7 +6,7 @@
   
       <v-tabs-window v-model="tab">
         <v-tabs-window-item :value="1">
-          Integrations/>
+          <Integrations/>
         </v-tabs-window-item>
       </v-tabs-window>
     </v-card>
@@ -14,7 +14,7 @@
   
   <script setup>
   import { ref } from "vue";
-//  import Integrations from './Integrations.vue';
+ import Integrations from './Integrations.vue';
   import { useI18n } from 'vue-i18n';
   
   const { t, locale } = useI18n();

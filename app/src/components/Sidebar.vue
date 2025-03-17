@@ -22,7 +22,7 @@ const openPage = (path) => {
 };
 
 const routes = computed(() => {
-  return router.getRoutes().filter(route => route.path !== '/');
+  return router.getRoutes();
 });
 
 </script>

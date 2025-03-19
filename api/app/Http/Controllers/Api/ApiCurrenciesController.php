@@ -58,7 +58,7 @@ class ApiCurrenciesController extends Controller
     public function getLatestCurrencies(): JsonResponse
     {
         $response = $this->apiCurrenciesService->getLatestCurrencies();
-        return response()->json($result);
+        return response()->json($response);
     }
 
     /**

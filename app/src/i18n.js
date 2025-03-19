@@ -40,7 +40,7 @@ const messages = {
     currency: 'Moeda',
     your_salary_in: 'Seu salário mensal (em {currency})',
     compare: "Compare",
-    with_your_salary: "Com um salário de ${salary} em {originCountry}, você é mais rico que {result}% da população do(a) {targetCountry}",
+    with_your_salary: "Com um salário de ${salary} {originCountry}, você é mais rico que {result}% da população {targetCountry}",
     states_list: "Lista de Estados",
     name: "Nome",
     abbreviation: "Sigla",

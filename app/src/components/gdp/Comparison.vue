@@ -82,7 +82,7 @@
               </v-form>
 
               <v-alert v-if="result" class="mt-4" type="info">
-                {{ $t('with_your_salary', { salary: salary, originCountry: originCountry?.country, result: result, targetCountry: targetCountry?.country }) }}
+                {{ $t('with_your_salary', { salary: salary, originCountry: in_origin_country, result: result, targetCountry: of_target_country }) }}
               </v-alert>
   
               <v-alert v-if="error" class="mt-4" type="error">
@@ -97,7 +97,12 @@
 <script setup>
   import { ref, inject, onMounted, watch } from "vue";
   import axios from "axios";
+  import { useI18n } from 'vue-i18n';
 
+  const of_target_country = ref("");
+  const in_origin_country = ref("");
+
+  const { t, locale } = useI18n();
   const config = inject("config");
   const countries = ref([]);
   const originCountry = ref(null);
@@ -164,16 +169,36 @@
     error.value = null;
     result.value = null;
 
+    const translateData = {};
+
+    if (localStorage.locale == "pt") {
+      translateData.value = {
+        lang: localStorage.locale,
+        origin_country: `in ${originCountry.value.country}`,
+        target_country: `of ${targetCountry.value.country}`,
+      };
+    }
+
     try {
       const response = await axios.get(`${config.apiUrl}/income/compare-income`, {
         params: {
           origin_country: originCountry.value.code,
           salary: salary.value,
           target_country: targetCountry.value.code,
+          translate_data: translateData.value
         },
       });
 
       result.value = response.data.quality_of_life;
+
+      in_origin_country.value = originCountry.value.country;
+      of_target_country.value = targetCountry.value.country;
+
+      if (response.data.translate_data) {
+        in_origin_country.value = response.data.translate_data.translatedTexts[0];
+        of_target_country.value = response.data.translate_data.translatedTexts[1];
+      }
+
     } catch (error) {
       error.value = "Error fetching data. Check the values ​​entered.";
     } finally {

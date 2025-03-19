@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use App\Services\IncomeComparisonService;
 use App\Services\PurchasingPowerService;
+use App\Services\TranslationService;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -14,12 +15,16 @@ class ApiIncomeDistributionsController extends Controller
 
     protected $purchasingPowerService;
 
+    protected $translateService;
+
     public function __construct(
         IncomeComparisonService $incomeComparisonService,
-        PurchasingPowerService $purchasingPowerService
+        PurchasingPowerService $purchasingPowerService,
+        TranslationService $translateService
     ) {
         $this->incomeComparisonService = $incomeComparisonService;
         $this->purchasingPowerService = $purchasingPowerService;
+        $this->translateService = $translateService;
     }
 
     /**
@@ -47,6 +52,14 @@ class ApiIncomeDistributionsController extends Controller
                 $request->input('target_country')
             )
         ];
+
+        if ($translateData = $request->input("translate_data")) {
+            $translatedText = $this->translateService->translateText(
+                [$translateData["origin_country"], $translateData["target_country"]],
+                $translateData["lang"]
+            );
+            $result["translate_data"] = $translatedText;
+        }
 
         return response()->json($result);
     }

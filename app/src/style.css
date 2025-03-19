@@ -103,3 +103,9 @@ button:focus-visible {
 .strokeme {
   text-shadow: -2px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+
+.bg-dark {
+  background: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  text-align: center;
+}

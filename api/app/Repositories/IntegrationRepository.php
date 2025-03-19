@@ -13,8 +13,20 @@ class IntegrationRepository
         $this->integrationModel = $integrationModel;
     }
 
-    public function getAll()
+    public function getAvailableIntegrations()
     {
-        return $this->integrationModel->all();
+        return $this->integrationModel->whereNotNull("value")->get();
+    }
+
+    /**
+     * @param string $key
+     * @param string $value
+     */
+    public function updateOrCreate(string $key, string $value)
+    {
+        return $this->integrationModel->updateOrCreate(
+            ["name" => $key],
+            ["value" => $value]
+        );
     }
 }

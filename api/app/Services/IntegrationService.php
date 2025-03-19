@@ -16,8 +16,16 @@ class IntegrationService
     /**
      * @return array
      */
-    public function getAll(): array
+    public function getAvailableIntegrations()
     {
-        return $this->integrationRepository->getAll();
+        return $this->integrationRepository->getAvailableIntegrations();
+    }
+
+    /**
+     * @return array
+     */
+    public function updateOrCreate(string $key, string $value)
+    {
+        return $this->integrationRepository->updateOrCreate($key, $value);
     }
 }

@@ -53,5 +53,6 @@ Route::prefix('news')->group(function () {
 });
 
 Route::prefix('integrations')->group(function () {
-    Route::get('/get', [IntegrationsController::class, 'getAll']);
+    Route::get('/available', [IntegrationsController::class, 'getAvailableIntegrations']);
+    Route::get('/update', [IntegrationsController::class, 'update']);
 });

@@ -3,26 +3,27 @@
 namespace App\Http\Controllers\Api;
 
 use Illuminate\Http\Request;
-use App\Models\Integration;
+use App\Services\IntegrationService;
 use App\Http\Controllers\Controller;
 
 class IntegrationsController extends Controller
 {
-    public $integration;
+    public $integrationService;
 
-    public function __construct(Integration $integration)
+    public function __construct(IntegrationService $integrationService)
     {
-        $this->integration = $integration;        
+        $this->integrationService = $integrationService;
     }
 
-    public function getAll()
+    public function getAvailableIntegrations()
     {
-        $integrations = $this->integration->all();
+        $integrations = $this->integrationService->getAvailableIntegrations();
         return response()->json($integrations);
     }
 
     public function update(Request $request)
     {
-
+        $response = $this->integrationService->updateOrCreate($request->input("key"), $request->input("value"));
+        return response()->json($response);
     }
 }
